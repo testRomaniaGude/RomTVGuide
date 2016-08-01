@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version 1.54.6/0.01 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="Acasa TV">
     <display-name lang="ro">Acasa TV</display-name>
@@ -48,2541 +48,2541 @@
     <display-name lang="ro">TVR 2</display-name>
     <url>http://www.port.ro</url>
   </channel>
-  <programme start="20160731043000 -0400" stop="20160731051500 -0400" channel="Acasa TV">
+  <programme start="20160731043000 -0500" stop="20160731051500 -0500" channel="Acasa TV">
     <title lang="ro">Soţ de închiriat (?)</title>
     <sub-title lang="ro">(sua, 2013, s. rom.)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160731051500 -0400" stop="20160731054500 -0400" channel="Acasa TV">
+  <programme start="20160731051500 -0500" stop="20160731054500 -0500" channel="Acasa TV">
     <title lang="ro">Dincolo de povestiri (?)</title>
     <sub-title lang="ro">(2013, emis. mag.)</sub-title>
     <category lang="ro">10</category>
   </programme>
-  <programme start="20160731054500 -0400" stop="20160731064500 -0400" channel="Acasa TV">
+  <programme start="20160731054500 -0500" stop="20160731064500 -0500" channel="Acasa TV">
     <title lang="ro">Spune-mi că eşti a mea (?)</title>
     <sub-title lang="ro">(mex., 2013, s. rom.)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160731064500 -0400" stop="20160731074500 -0400" channel="Acasa TV">
+  <programme start="20160731064500 -0500" stop="20160731074500 -0500" channel="Acasa TV">
     <title lang="ro">În aşteptarea dragostei (?)</title>
     <sub-title lang="ro">(ind., 2013, s. dr.)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160731074500 -0400" stop="20160731080000 -0400" channel="Acasa TV">
+  <programme start="20160731074500 -0500" stop="20160731080000 -0500" channel="Acasa TV">
     <title lang="ro">Teleshopping (?)</title>
     <sub-title lang="ro">(promo)</sub-title>
     <category lang="ro">13</category>
   </programme>
-  <programme start="20160731080000 -0400" stop="20160731084500 -0400" channel="Acasa TV">
+  <programme start="20160731080000 -0500" stop="20160731084500 -0500" channel="Acasa TV">
     <title lang="ro">Lecţii de viaţă (?)</title>
     <sub-title lang="ro">(2015, s. tv, episodul 6)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160731084500 -0400" stop="20160731091500 -0400" channel="Acasa TV">
+  <programme start="20160731084500 -0500" stop="20160731091500 -0500" channel="Acasa TV">
     <title lang="ro">Teleshopping (?)</title>
     <sub-title lang="ro">(promo)</sub-title>
     <category lang="ro">13</category>
   </programme>
-  <programme start="20160731091500 -0400" stop="20160731111500 -0400" channel="Acasa TV">
+  <programme start="20160731091500 -0500" stop="20160731111500 -0500" channel="Acasa TV">
     <title lang="ro">Regina inimilor (?)</title>
     <sub-title lang="ro">(sua, 2014, ser.)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160731111500 -0400" stop="20160731113000 -0400" channel="Acasa TV">
+  <programme start="20160731111500 -0500" stop="20160731113000 -0500" channel="Acasa TV">
     <title lang="ro">Teleshopping (?)</title>
     <sub-title lang="ro">(promo)</sub-title>
     <category lang="ro">13</category>
   </programme>
-  <programme start="20160731113000 -0400" stop="20160731133000 -0400" channel="Acasa TV">
+  <programme start="20160731113000 -0500" stop="20160731133000 -0500" channel="Acasa TV">
     <title lang="ro">Până la capătul lumii (?)</title>
     <sub-title lang="ro">(mex., 2014, s. dr.)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160731133000 -0400" stop="20160731140000 -0400" channel="Acasa TV">
+  <programme start="20160731133000 -0500" stop="20160731140000 -0500" channel="Acasa TV">
     <title lang="ro">Teleshopping (?)</title>
     <sub-title lang="ro">(promo)</sub-title>
     <category lang="ro">13</category>
   </programme>
-  <programme start="20160731140000 -0400" stop="20160731150000 -0400" channel="Acasa TV">
+  <programme start="20160731140000 -0500" stop="20160731150000 -0500" channel="Acasa TV">
     <title lang="ro">Clona (?)</title>
     <sub-title lang="ro">(braz., 2001, s. tv, episodul 82)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160731150000 -0400" stop="20160731160000 -0400" channel="Acasa TV">
+  <programme start="20160731150000 -0500" stop="20160731160000 -0500" channel="Acasa TV">
     <title lang="ro">Soţ de închiriat (?)</title>
     <sub-title lang="ro">(sua, 2013, s. rom., episodul 62)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160731160000 -0400" stop="20160731170000 -0400" channel="Acasa TV">
+  <programme start="20160731160000 -0500" stop="20160731170000 -0500" channel="Acasa TV">
     <title lang="ro">Spune-mi că eşti a mea (?)</title>
     <sub-title lang="ro">(mex., 2013, s. rom., episodul 180)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160731170000 -0400" stop="20160731180000 -0400" channel="Acasa TV">
+  <programme start="20160731170000 -0500" stop="20160731180000 -0500" channel="Acasa TV">
     <title lang="ro">În aşteptarea dragostei (?)</title>
     <sub-title lang="ro">(ind., 2013, s. dr.)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160731180000 -0400" stop="20160731190000 -0400" channel="Acasa TV">
+  <programme start="20160731180000 -0500" stop="20160731190000 -0500" channel="Acasa TV">
     <title lang="ro">Regina inimilor (?)</title>
     <sub-title lang="ro">(sua, 2014, ser., episodul 39)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160731190000 -0400" stop="20160731200000 -0400" channel="Acasa TV">
+  <programme start="20160731190000 -0500" stop="20160731200000 -0500" channel="Acasa TV">
     <title lang="ro">Regina inimilor (?)</title>
     <sub-title lang="ro">(sua, 2014, ser., episodul 40)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160731200000 -0400" stop="20160731210000 -0400" channel="Acasa TV">
+  <programme start="20160731200000 -0500" stop="20160731210000 -0500" channel="Acasa TV">
     <title lang="ro">Până la capătul lumii (?)</title>
     <sub-title lang="ro">(mex., 2014, s. dr., episodul 139)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160731210000 -0400" stop="20160731220000 -0400" channel="Acasa TV">
+  <programme start="20160731210000 -0500" stop="20160731220000 -0500" channel="Acasa TV">
     <title lang="ro">Până la capătul lumii (?)</title>
     <sub-title lang="ro">(mex., 2014, s. dr., episodul 140)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160731220000 -0400" stop="20160731230000 -0400" channel="Acasa TV">
+  <programme start="20160731220000 -0500" stop="20160731230000 -0500" channel="Acasa TV">
     <title lang="ro">Vise de smarald (?)</title>
     <sub-title lang="ro">(ven., 2014, episodul 128)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160731230000 -0400" stop="20160801003000 -0400" channel="Acasa TV">
+  <programme start="20160731230000 -0500" stop="20160801003000 -0500" channel="Acasa TV">
     <title lang="ro">Regina (?)</title>
     <sub-title lang="ro">(rom., 2008, ser., episodul 132)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160801003000 -0400" stop="20160801013000 -0400" channel="Acasa TV">
+  <programme start="20160801003000 -0500" stop="20160801013000 -0500" channel="Acasa TV">
     <title lang="ro">Clona (?)</title>
     <sub-title lang="ro">(braz., 2001, s. tv)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160801013000 -0400" stop="20160801031500 -0400" channel="Acasa TV">
+  <programme start="20160801013000 -0500" stop="20160801031500 -0500" channel="Acasa TV">
     <title lang="ro">Până la capătul lumii (?)</title>
     <sub-title lang="ro">(mex., 2014, s. dr.)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160801031500 -0400" stop="20160801043000 -0400" channel="Acasa TV">
+  <programme start="20160801031500 -0500" stop="20160801043000 -0500" channel="Acasa TV">
     <title lang="ro">Regina (?)</title>
     <sub-title lang="ro">(rom., 2008, ser.)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160801043000 -0400" stop="20160801051500 -0400" channel="Acasa TV">
+  <programme start="20160801043000 -0500" stop="20160801051500 -0500" channel="Acasa TV">
     <title lang="ro">Soţ de închiriat (?)</title>
     <sub-title lang="ro">(sua, 2013, s. rom.)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160801051500 -0400" stop="20160801060000 -0400" channel="Acasa TV">
+  <programme start="20160801051500 -0500" stop="20160801060000 -0500" channel="Acasa TV">
     <title lang="ro">Ce se întâmplă, doctore? (?)</title>
     <sub-title lang="ro">(mag. life-style)</sub-title>
     <category lang="ro">13</category>
   </programme>
-  <programme start="20160801060000 -0400" stop="20160801070000 -0400" channel="Acasa TV">
+  <programme start="20160801060000 -0500" stop="20160801070000 -0500" channel="Acasa TV">
     <title lang="ro">Spune-mi că eşti a mea (?)</title>
     <sub-title lang="ro">(mex., 2013, s. rom.)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160801070000 -0400" stop="20160801080000 -0400" channel="Acasa TV">
+  <programme start="20160801070000 -0500" stop="20160801080000 -0500" channel="Acasa TV">
     <title lang="ro">În aşteptarea dragostei (?)</title>
     <sub-title lang="ro">(ind., 2013, s. dr.)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160801080000 -0400" stop="20160801090000 -0400" channel="Acasa TV">
+  <programme start="20160801080000 -0500" stop="20160801090000 -0500" channel="Acasa TV">
     <title lang="ro">Puterea destinului (?)</title>
     <sub-title lang="ro">(tur., 2006, s. dr.)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160801090000 -0400" stop="20160801091500 -0400" channel="Acasa TV">
+  <programme start="20160801090000 -0500" stop="20160801091500 -0500" channel="Acasa TV">
     <title lang="ro">Teleshopping (?)</title>
     <sub-title lang="ro">(promo)</sub-title>
     <category lang="ro">13</category>
   </programme>
-  <programme start="20160801091500 -0400" stop="20160801111500 -0400" channel="Acasa TV">
+  <programme start="20160801091500 -0500" stop="20160801111500 -0500" channel="Acasa TV">
     <title lang="ro">Regina inimilor (?)</title>
     <sub-title lang="ro">(sua, 2014, ser.)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160801111500 -0400" stop="20160801113000 -0400" channel="Acasa TV">
+  <programme start="20160801111500 -0500" stop="20160801113000 -0500" channel="Acasa TV">
     <title lang="ro">Teleshopping (?)</title>
     <sub-title lang="ro">(promo)</sub-title>
     <category lang="ro">13</category>
   </programme>
-  <programme start="20160801113000 -0400" stop="20160801133000 -0400" channel="Acasa TV">
+  <programme start="20160801113000 -0500" stop="20160801133000 -0500" channel="Acasa TV">
     <title lang="ro">Până la capătul lumii (?)</title>
     <sub-title lang="ro">(mex., 2014, s. dr.)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160801133000 -0400" stop="20160801140000 -0400" channel="Acasa TV">
+  <programme start="20160801133000 -0500" stop="20160801140000 -0500" channel="Acasa TV">
     <title lang="ro">Teleshopping (?)</title>
     <sub-title lang="ro">(promo)</sub-title>
     <category lang="ro">13</category>
   </programme>
-  <programme start="20160801140000 -0400" stop="20160801150000 -0400" channel="Acasa TV">
+  <programme start="20160801140000 -0500" stop="20160801150000 -0500" channel="Acasa TV">
     <title lang="ro">Clona (?)</title>
     <sub-title lang="ro">(braz., 2001, s. tv, episodul 83)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160801150000 -0400" stop="20160801160000 -0400" channel="Acasa TV">
+  <programme start="20160801150000 -0500" stop="20160801160000 -0500" channel="Acasa TV">
     <title lang="ro">Soţ de închiriat (?)</title>
     <sub-title lang="ro">(sua, 2013, s. rom., episodul 63)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160801160000 -0400" stop="20160801170000 -0400" channel="Acasa TV">
+  <programme start="20160801160000 -0500" stop="20160801170000 -0500" channel="Acasa TV">
     <title lang="ro">Spune-mi că eşti a mea (?)</title>
     <sub-title lang="ro">(mex., 2013, s. rom., episodul 181)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160801170000 -0400" stop="20160801180000 -0400" channel="Acasa TV">
+  <programme start="20160801170000 -0500" stop="20160801180000 -0500" channel="Acasa TV">
     <title lang="ro">În aşteptarea dragostei (?)</title>
     <sub-title lang="ro">(ind., 2013, s. dr.)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160801180000 -0400" stop="20160801190000 -0400" channel="Acasa TV">
+  <programme start="20160801180000 -0500" stop="20160801190000 -0500" channel="Acasa TV">
     <title lang="ro">Intrigi în Paradis (?)</title>
     <sub-title lang="ro">(mex., 2013, s. rom., episodul 6)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160801190000 -0400" stop="20160801200000 -0400" channel="Acasa TV">
+  <programme start="20160801190000 -0500" stop="20160801200000 -0500" channel="Acasa TV">
     <title lang="ro">Trandafirul negru (?)</title>
     <sub-title lang="ro">(tur., 2013, s. dr., sezonul 4, episodul 86)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160801200000 -0400" stop="20160801210000 -0400" channel="Acasa TV">
+  <programme start="20160801200000 -0500" stop="20160801210000 -0500" channel="Acasa TV">
     <title lang="ro">Până la capătul lumii (?)</title>
     <sub-title lang="ro">(mex., 2014, s. dr., episodul 141)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160801210000 -0400" stop="20160801220000 -0400" channel="Acasa TV">
+  <programme start="20160801210000 -0500" stop="20160801220000 -0500" channel="Acasa TV">
     <title lang="ro">Până la capătul lumii (?)</title>
     <sub-title lang="ro">(mex., 2014, s. dr., episodul 142)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160801220000 -0400" stop="20160801230000 -0400" channel="Acasa TV">
+  <programme start="20160801220000 -0500" stop="20160801230000 -0500" channel="Acasa TV">
     <title lang="ro">Puterea destinului (?)</title>
     <sub-title lang="ro">(tur., 2006, s. dr., episodul 60)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160801230000 -0400" stop="20160802003000 -0400" channel="Acasa TV">
+  <programme start="20160801230000 -0500" stop="20160802003000 -0500" channel="Acasa TV">
     <title lang="ro">Regina (?)</title>
     <sub-title lang="ro">(rom., 2008, ser., episodul 133)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160731061500 -0400" stop="20160731071500 -0400" channel="Acasa GOLD">
+  <programme start="20160731061500 -0500" stop="20160731071500 -0500" channel="Acasa GOLD">
     <title lang="ro">Îngeraşii (?)</title>
     <sub-title lang="ro">(rom., 2008, s. com.)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160731071500 -0400" stop="20160731081500 -0400" channel="Acasa GOLD">
+  <programme start="20160731071500 -0500" stop="20160731081500 -0500" channel="Acasa GOLD">
     <title lang="ro">Aniela (?)</title>
     <sub-title lang="ro">(rom., 2009, ser.)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160731081500 -0400" stop="20160731093000 -0400" channel="Acasa GOLD">
+  <programme start="20160731081500 -0500" stop="20160731093000 -0500" channel="Acasa GOLD">
     <title lang="ro">Teleshopping (?)</title>
     <sub-title lang="ro">(promo)</sub-title>
     <category lang="ro">13</category>
   </programme>
-  <programme start="20160731093000 -0400" stop="20160731103000 -0400" channel="Acasa GOLD">
+  <programme start="20160731093000 -0500" stop="20160731103000 -0500" channel="Acasa GOLD">
     <title lang="ro">Lacrimi de iubire (?)</title>
     <sub-title lang="ro">(rom., 2005, ser.)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160731103000 -0400" stop="20160731111500 -0400" channel="Acasa GOLD">
+  <programme start="20160731103000 -0500" stop="20160731111500 -0500" channel="Acasa GOLD">
     <title lang="ro">Teleshopping (?)</title>
     <sub-title lang="ro">(promo)</sub-title>
     <category lang="ro">13</category>
   </programme>
-  <programme start="20160731111500 -0400" stop="20160731121500 -0400" channel="Acasa GOLD">
+  <programme start="20160731111500 -0500" stop="20160731121500 -0500" channel="Acasa GOLD">
     <title lang="ro">Îngeraşii (?)</title>
     <sub-title lang="ro">(rom., 2008, s. com.)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160731121500 -0400" stop="20160731131500 -0400" channel="Acasa GOLD">
+  <programme start="20160731121500 -0500" stop="20160731131500 -0500" channel="Acasa GOLD">
     <title lang="ro">Familia Bundy (?)</title>
     <sub-title lang="ro">(sua, 1987, s. com.)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160731131500 -0400" stop="20160731133000 -0400" channel="Acasa GOLD">
+  <programme start="20160731131500 -0500" stop="20160731133000 -0500" channel="Acasa GOLD">
     <title lang="ro">Teleshopping (?)</title>
     <sub-title lang="ro">(promo)</sub-title>
     <category lang="ro">13</category>
   </programme>
-  <programme start="20160731133000 -0400" stop="20160731143000 -0400" channel="Acasa GOLD">
+  <programme start="20160731133000 -0500" stop="20160731143000 -0500" channel="Acasa GOLD">
     <title lang="ro">Lacrimi de iubire (?)</title>
     <sub-title lang="ro">(rom., 2005, ser.)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160731143000 -0400" stop="20160731153000 -0400" channel="Acasa GOLD">
+  <programme start="20160731143000 -0500" stop="20160731153000 -0500" channel="Acasa GOLD">
     <title lang="ro">Îngeraşii (?)</title>
     <sub-title lang="ro">(rom., 2008, s. com., episodul 113)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160731153000 -0400" stop="20160731163000 -0400" channel="Acasa GOLD">
+  <programme start="20160731153000 -0500" stop="20160731163000 -0500" channel="Acasa GOLD">
     <title lang="ro">Pe cont propriu (?)</title>
     <sub-title lang="ro">(sua, 1994, s. dr.)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160731163000 -0400" stop="20160731173000 -0400" channel="Acasa GOLD">
+  <programme start="20160731163000 -0500" stop="20160731173000 -0500" channel="Acasa GOLD">
     <title lang="ro">Seinfeld (?)</title>
     <sub-title lang="ro">(sua, 1990, s. com.)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160731173000 -0400" stop="20160731183000 -0400" channel="Acasa GOLD">
+  <programme start="20160731173000 -0500" stop="20160731183000 -0500" channel="Acasa GOLD">
     <title lang="ro">Familia Bundy (?)</title>
     <sub-title lang="ro">(sua, 1987, s. com.)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160731183000 -0400" stop="20160731193000 -0400" channel="Acasa GOLD">
+  <programme start="20160731183000 -0500" stop="20160731193000 -0500" channel="Acasa GOLD">
     <title lang="ro">Pe cont propriu (?)</title>
     <sub-title lang="ro">(sua, 1994, s. dr., sezonul 5, episodul 23)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160731193000 -0400" stop="20160731203000 -0400" channel="Acasa GOLD">
+  <programme start="20160731193000 -0500" stop="20160731203000 -0500" channel="Acasa GOLD">
     <title lang="ro">Lacrimi de iubire (?)</title>
     <sub-title lang="ro">(rom., 2005, ser., episodul 183)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160731203000 -0400" stop="20160731210000 -0400" channel="Acasa GOLD">
+  <programme start="20160731203000 -0500" stop="20160731210000 -0500" channel="Acasa GOLD">
     <title lang="ro">Seinfeld (?)</title>
     <sub-title lang="ro">(sua, 1990, s. com., sezonul 9, episodul 1)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160731210000 -0400" stop="20160731213000 -0400" channel="Acasa GOLD">
+  <programme start="20160731210000 -0500" stop="20160731213000 -0500" channel="Acasa GOLD">
     <title lang="ro">Seinfeld (?)</title>
     <sub-title lang="ro">(sua, 1990, s. com., sezonul 9, episodul 2)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160731213000 -0400" stop="20160731220000 -0400" channel="Acasa GOLD">
+  <programme start="20160731213000 -0500" stop="20160731220000 -0500" channel="Acasa GOLD">
     <title lang="ro">Familia Bundy (?)</title>
     <sub-title lang="ro">(sua, 1987, s. com., sezonul 10, episodul 20)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160731220000 -0400" stop="20160731223000 -0400" channel="Acasa GOLD">
+  <programme start="20160731220000 -0500" stop="20160731223000 -0500" channel="Acasa GOLD">
     <title lang="ro">Familia Bundy (?)</title>
     <sub-title lang="ro">(sua, 1987, s. com., sezonul 10, episodul 21)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160731223000 -0400" stop="20160731233000 -0400" channel="Acasa GOLD">
+  <programme start="20160731223000 -0500" stop="20160731233000 -0500" channel="Acasa GOLD">
     <title lang="ro">Supernatural: Aventuri în lumea întunericului (?)</title>
     <sub-title lang="ro">(sua, 2005, s. de acţ., sezonul 8, episodul 23)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160731233000 -0400" stop="20160801011500 -0400" channel="Acasa GOLD">
+  <programme start="20160731233000 -0500" stop="20160801011500 -0500" channel="Acasa GOLD">
     <title lang="ro">Aniela (?)</title>
     <sub-title lang="ro">(rom., 2009, ser., episodul 53)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160801011500 -0400" stop="20160801061500 -0400" channel="Acasa GOLD">
+  <programme start="20160801011500 -0500" stop="20160801061500 -0500" channel="Acasa GOLD">
     <title lang="ro">Supernatural: Aventuri în lumea întunericului (?)</title>
     <sub-title lang="ro">(sua, 2005, s. de acţ.)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160801061500 -0400" stop="20160801071500 -0400" channel="Acasa GOLD">
+  <programme start="20160801061500 -0500" stop="20160801071500 -0500" channel="Acasa GOLD">
     <title lang="ro">Îngeraşii (?)</title>
     <sub-title lang="ro">(rom., 2008, s. com.)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160801071500 -0400" stop="20160801081500 -0400" channel="Acasa GOLD">
+  <programme start="20160801071500 -0500" stop="20160801081500 -0500" channel="Acasa GOLD">
     <title lang="ro">Aniela (?)</title>
     <sub-title lang="ro">(rom., 2009, ser.)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160801081500 -0400" stop="20160801093000 -0400" channel="Acasa GOLD">
+  <programme start="20160801081500 -0500" stop="20160801093000 -0500" channel="Acasa GOLD">
     <title lang="ro">Teleshopping (?)</title>
     <sub-title lang="ro">(promo)</sub-title>
     <category lang="ro">13</category>
   </programme>
-  <programme start="20160801093000 -0400" stop="20160801103000 -0400" channel="Acasa GOLD">
+  <programme start="20160801093000 -0500" stop="20160801103000 -0500" channel="Acasa GOLD">
     <title lang="ro">Lacrimi de iubire (?)</title>
     <sub-title lang="ro">(rom., 2005, ser.)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160801103000 -0400" stop="20160801111500 -0400" channel="Acasa GOLD">
+  <programme start="20160801103000 -0500" stop="20160801111500 -0500" channel="Acasa GOLD">
     <title lang="ro">Teleshopping (?)</title>
     <sub-title lang="ro">(promo)</sub-title>
     <category lang="ro">13</category>
   </programme>
-  <programme start="20160801111500 -0400" stop="20160801121500 -0400" channel="Acasa GOLD">
+  <programme start="20160801111500 -0500" stop="20160801121500 -0500" channel="Acasa GOLD">
     <title lang="ro">Îngeraşii (?)</title>
     <sub-title lang="ro">(rom., 2008, s. com.)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160801121500 -0400" stop="20160801131500 -0400" channel="Acasa GOLD">
+  <programme start="20160801121500 -0500" stop="20160801131500 -0500" channel="Acasa GOLD">
     <title lang="ro">Familia Bundy (?)</title>
     <sub-title lang="ro">(sua, 1987, s. com.)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160801131500 -0400" stop="20160801133000 -0400" channel="Acasa GOLD">
+  <programme start="20160801131500 -0500" stop="20160801133000 -0500" channel="Acasa GOLD">
     <title lang="ro">Teleshopping (?)</title>
     <sub-title lang="ro">(promo)</sub-title>
     <category lang="ro">13</category>
   </programme>
-  <programme start="20160801133000 -0400" stop="20160801143000 -0400" channel="Acasa GOLD">
+  <programme start="20160801133000 -0500" stop="20160801143000 -0500" channel="Acasa GOLD">
     <title lang="ro">Lacrimi de iubire (?)</title>
     <sub-title lang="ro">(rom., 2005, ser.)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160801143000 -0400" stop="20160801153000 -0400" channel="Acasa GOLD">
+  <programme start="20160801143000 -0500" stop="20160801153000 -0500" channel="Acasa GOLD">
     <title lang="ro">Îngeraşii (?)</title>
     <sub-title lang="ro">(rom., 2008, s. com., episodul 114)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160801153000 -0400" stop="20160801163000 -0400" channel="Acasa GOLD">
+  <programme start="20160801153000 -0500" stop="20160801163000 -0500" channel="Acasa GOLD">
     <title lang="ro">Pe cont propriu (?)</title>
     <sub-title lang="ro">(sua, 1994, s. dr.)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160801163000 -0400" stop="20160801173000 -0400" channel="Acasa GOLD">
+  <programme start="20160801163000 -0500" stop="20160801173000 -0500" channel="Acasa GOLD">
     <title lang="ro">Seinfeld (?)</title>
     <sub-title lang="ro">(sua, 1990, s. com.)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160801173000 -0400" stop="20160801183000 -0400" channel="Acasa GOLD">
+  <programme start="20160801173000 -0500" stop="20160801183000 -0500" channel="Acasa GOLD">
     <title lang="ro">Familia Bundy (?)</title>
     <sub-title lang="ro">(sua, 1987, s. com.)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160801183000 -0400" stop="20160801193000 -0400" channel="Acasa GOLD">
+  <programme start="20160801183000 -0500" stop="20160801193000 -0500" channel="Acasa GOLD">
     <title lang="ro">Pe cont propriu (?)</title>
     <sub-title lang="ro">(sua, 1994, s. dr., sezonul 5, episodul 24)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160801193000 -0400" stop="20160801203000 -0400" channel="Acasa GOLD">
+  <programme start="20160801193000 -0500" stop="20160801203000 -0500" channel="Acasa GOLD">
     <title lang="ro">Lacrimi de iubire (?)</title>
     <sub-title lang="ro">(rom., 2005, ser., episodul 184)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160801203000 -0400" stop="20160801210000 -0400" channel="Acasa GOLD">
+  <programme start="20160801203000 -0500" stop="20160801210000 -0500" channel="Acasa GOLD">
     <title lang="ro">Seinfeld (?)</title>
     <sub-title lang="ro">(sua, 1990, s. com., sezonul 9, episodul 3)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160801210000 -0400" stop="20160801213000 -0400" channel="Acasa GOLD">
+  <programme start="20160801210000 -0500" stop="20160801213000 -0500" channel="Acasa GOLD">
     <title lang="ro">Seinfeld (?)</title>
     <sub-title lang="ro">(sua, 1990, s. com., sezonul 9, episodul 4)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160801213000 -0400" stop="20160801220000 -0400" channel="Acasa GOLD">
+  <programme start="20160801213000 -0500" stop="20160801220000 -0500" channel="Acasa GOLD">
     <title lang="ro">Familia Bundy (?)</title>
     <sub-title lang="ro">(sua, 1987, s. com., sezonul 10, episodul 22)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160801220000 -0400" stop="20160801223000 -0400" channel="Acasa GOLD">
+  <programme start="20160801220000 -0500" stop="20160801223000 -0500" channel="Acasa GOLD">
     <title lang="ro">Familia Bundy (?)</title>
     <sub-title lang="ro">(sua, 1987, s. com., sezonul 10, episodul 23)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160801223000 -0400" stop="20160801233000 -0400" channel="Acasa GOLD">
+  <programme start="20160801223000 -0500" stop="20160801233000 -0500" channel="Acasa GOLD">
     <title lang="ro">Conexiuni misterioase (?)</title>
     <sub-title lang="ro">(sua, 2011, ser., sezonul 1, episodul 1)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160801233000 -0400" stop="20160802011500 -0400" channel="Acasa GOLD">
+  <programme start="20160801233000 -0500" stop="20160802011500 -0500" channel="Acasa GOLD">
     <title lang="ro">Aniela (?)</title>
     <sub-title lang="ro">(rom., 2009, ser., episodul 54)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160731060000 -0400" stop="20160731090000 -0400" channel="Antena 1">
+  <programme start="20160731060000 -0500" stop="20160731090000 -0500" channel="Antena 1">
     <title lang="ro">Observator (?)</title>
     <sub-title lang="ro">(emis. info.)</sub-title>
     <category lang="ro">3</category>
   </programme>
-  <programme start="20160731090000 -0400" stop="20160731110000 -0400" channel="Antena 1">
+  <programme start="20160731090000 -0500" stop="20160731110000 -0500" channel="Antena 1">
     <title lang="ro">Albă ca zăpada (?)</title>
     <sub-title lang="ro">(sua, 2001, f. fantasy)</sub-title>
     <category lang="ro">2</category>
   </programme>
-  <programme start="20160731110000 -0400" stop="20160731130000 -0400" channel="Antena 1">
+  <programme start="20160731110000 -0500" stop="20160731130000 -0500" channel="Antena 1">
     <title lang="ro">Declaraţie de dragoste (?)</title>
     <sub-title lang="ro">(rom., 1985, f. dr.)</sub-title>
     <category lang="ro">2</category>
   </programme>
-  <programme start="20160731130000 -0400" stop="20160731131500 -0400" channel="Antena 1">
+  <programme start="20160731130000 -0500" stop="20160731131500 -0500" channel="Antena 1">
     <title lang="ro">Observator (?)</title>
     <sub-title lang="ro">(emis. info.)</sub-title>
     <category lang="ro">3</category>
   </programme>
-  <programme start="20160731131500 -0400" stop="20160731141500 -0400" channel="Antena 1">
+  <programme start="20160731131500 -0500" stop="20160731141500 -0500" channel="Antena 1">
     <title lang="ro">Nord şi Sud (?)</title>
     <sub-title lang="ro">(engl., 2004, mini-s.) Ecranizarea romanului omonim al lui Elisabeth Gaskell.</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160731141500 -0400" stop="20160731160000 -0400" channel="Antena 1">
+  <programme start="20160731141500 -0500" stop="20160731160000 -0500" channel="Antena 1">
     <title lang="ro">Plasa de stele - Răzbunarea vedetelor (?)</title>
     <sub-title lang="ro">(2016, divertisment)</sub-title>
     <category lang="ro">5</category>
   </programme>
-  <programme start="20160731160000 -0400" stop="20160731164500 -0400" channel="Antena 1">
+  <programme start="20160731160000 -0500" stop="20160731164500 -0500" channel="Antena 1">
     <title lang="ro">Observator (?)</title>
     <sub-title lang="ro">(emis. info.)</sub-title>
     <category lang="ro">3</category>
   </programme>
-  <programme start="20160731164500 -0400" stop="20160731190000 -0400" channel="Antena 1">
+  <programme start="20160731164500 -0500" stop="20160731190000 -0500" channel="Antena 1">
     <title lang="ro">FanTastic Show (?)</title>
     <sub-title lang="ro">(2016, divertisment)</sub-title>
     <category lang="ro">5</category>
   </programme>
-  <programme start="20160731190000 -0400" stop="20160731200000 -0400" channel="Antena 1">
+  <programme start="20160731190000 -0500" stop="20160731200000 -0500" channel="Antena 1">
     <title lang="ro">Observator (?)</title>
     <sub-title lang="ro">(emis. info.)</sub-title>
     <category lang="ro">3</category>
   </programme>
-  <programme start="20160731200000 -0400" stop="20160731220000 -0400" channel="Antena 1">
+  <programme start="20160731200000 -0500" stop="20160731220000 -0500" channel="Antena 1">
     <title lang="ro">În puii mei! (?)</title>
     <sub-title lang="ro">(2016, divertisment)</sub-title>
     <category lang="ro">5</category>
   </programme>
-  <programme start="20160731220000 -0400" stop="20160801010000 -0400" channel="Antena 1">
+  <programme start="20160731220000 -0500" stop="20160801010000 -0500" channel="Antena 1">
     <title lang="ro">Temptation Island - Insula iubirii (?)</title>
     <sub-title lang="ro">(2016, reality show)</sub-title>
     <category lang="ro">5</category>
   </programme>
-  <programme start="20160801010000 -0400" stop="20160801030000 -0400" channel="Antena 1">
+  <programme start="20160801010000 -0500" stop="20160801030000 -0500" channel="Antena 1">
     <title lang="ro">În puii mei! (?)</title>
     <sub-title lang="ro">(2016, divertisment)</sub-title>
     <category lang="ro">5</category>
   </programme>
-  <programme start="20160801030000 -0400" stop="20160801060000 -0400" channel="Antena 1">
+  <programme start="20160801030000 -0500" stop="20160801060000 -0500" channel="Antena 1">
     <title lang="ro">Albă ca zăpada (?)</title>
     <sub-title lang="ro">(sua, 2001, f. fantasy)</sub-title>
     <category lang="ro">2</category>
   </programme>
-  <programme start="20160801060000 -0400" stop="20160801090000 -0400" channel="Antena 1">
+  <programme start="20160801060000 -0500" stop="20160801090000 -0500" channel="Antena 1">
     <title lang="ro">Observator (?)</title>
     <sub-title lang="ro">(emis. info.)</sub-title>
     <category lang="ro">3</category>
   </programme>
-  <programme start="20160801090000 -0400" stop="20160801105500 -0400" channel="Antena 1">
+  <programme start="20160801090000 -0500" stop="20160801105500 -0500" channel="Antena 1">
     <title lang="ro">Declaraţie de dragoste (?)</title>
     <sub-title lang="ro">(rom., 1985, f. dr.)</sub-title>
     <category lang="ro">2</category>
   </programme>
-  <programme start="20160801105500 -0400" stop="20160801111500 -0400" channel="Antena 1">
+  <programme start="20160801105500 -0500" stop="20160801111500 -0500" channel="Antena 1">
     <title lang="ro">Teleshopping (?)</title>
     <sub-title lang="ro">(promo)</sub-title>
     <category lang="ro">13</category>
   </programme>
-  <programme start="20160801111500 -0400" stop="20160801130000 -0400" channel="Antena 1">
+  <programme start="20160801111500 -0500" stop="20160801130000 -0500" channel="Antena 1">
     <title lang="ro">Mireasă pentru fiul meu (?)</title>
     <sub-title lang="ro">(2015, reality show)</sub-title>
     <category lang="ro">19</category>
   </programme>
-  <programme start="20160801130000 -0400" stop="20160801140000 -0400" channel="Antena 1">
+  <programme start="20160801130000 -0500" stop="20160801140000 -0500" channel="Antena 1">
     <title lang="ro">Observator (?)</title>
     <sub-title lang="ro">(emis. info.)</sub-title>
     <category lang="ro">3</category>
   </programme>
-  <programme start="20160801140000 -0400" stop="20160801160000 -0400" channel="Antena 1">
+  <programme start="20160801140000 -0500" stop="20160801160000 -0500" channel="Antena 1">
     <title lang="ro">Mireasă pentru fiul meu (?)</title>
     <sub-title lang="ro">(2015, reality show)</sub-title>
     <category lang="ro">19</category>
   </programme>
-  <programme start="20160801160000 -0400" stop="20160801170000 -0400" channel="Antena 1">
+  <programme start="20160801160000 -0500" stop="20160801170000 -0500" channel="Antena 1">
     <title lang="ro">Observator (?)</title>
     <sub-title lang="ro">(emis. info.)</sub-title>
     <category lang="ro">3</category>
   </programme>
-  <programme start="20160801170000 -0400" stop="20160801190000 -0400" channel="Antena 1">
+  <programme start="20160801170000 -0500" stop="20160801190000 -0500" channel="Antena 1">
     <title lang="ro">Poftiţi pe la noi: Poftiţi de vă iubiţi (?)</title>
     <sub-title lang="ro">(2015, divertisment)</sub-title>
     <category lang="ro">5</category>
   </programme>
-  <programme start="20160801190000 -0400" stop="20160801200000 -0400" channel="Antena 1">
+  <programme start="20160801190000 -0500" stop="20160801200000 -0500" channel="Antena 1">
     <title lang="ro">Observator (?)</title>
     <sub-title lang="ro">(emis. info.)</sub-title>
     <category lang="ro">3</category>
   </programme>
-  <programme start="20160801200000 -0400" stop="20160801203000 -0400" channel="Antena 1">
+  <programme start="20160801200000 -0500" stop="20160801203000 -0500" channel="Antena 1">
     <title lang="ro">Observator special (?)</title>
     <sub-title lang="ro">(2012, emis. info.)</sub-title>
     <category lang="ro">3</category>
   </programme>
-  <programme start="20160801203000 -0400" stop="20160801223000 -0400" channel="Antena 1">
+  <programme start="20160801203000 -0500" stop="20160801223000 -0500" channel="Antena 1">
     <title lang="ro">iUmor (?)</title>
     <sub-title lang="ro">(2016, divertisment)</sub-title>
     <category lang="ro">5</category>
   </programme>
-  <programme start="20160801223000 -0400" stop="20160802003000 -0400" channel="Antena 1">
+  <programme start="20160801223000 -0500" stop="20160802003000 -0500" channel="Antena 1">
     <title lang="ro">Temptation Island - Insula iubirii (?)</title>
     <sub-title lang="ro">(2016, reality show)</sub-title>
     <category lang="ro">5</category>
   </programme>
-  <programme start="20160731044800 -0400" stop="20160731060000 -0400" channel="Antena 3">
+  <programme start="20160731044800 -0500" stop="20160731060000 -0500" channel="Antena 3">
     <title lang="ro">Teleshopping (?)</title>
     <sub-title lang="ro">(promo)</sub-title>
     <category lang="ro">13</category>
   </programme>
-  <programme start="20160731060000 -0400" stop="20160731070000 -0400" channel="Antena 3">
+  <programme start="20160731060000 -0500" stop="20160731070000 -0500" channel="Antena 3">
     <title lang="ro">Ştiri (?)</title>
     <sub-title lang="ro">(emis. info.)</sub-title>
     <category lang="ro">3</category>
   </programme>
-  <programme start="20160731070000 -0400" stop="20160731080000 -0400" channel="Antena 3">
+  <programme start="20160731070000 -0500" stop="20160731080000 -0500" channel="Antena 3">
     <title lang="ro">Ştiri (?)</title>
     <sub-title lang="ro">(emis. info.)</sub-title>
     <category lang="ro">3</category>
   </programme>
-  <programme start="20160731080000 -0400" stop="20160731090000 -0400" channel="Antena 3">
+  <programme start="20160731080000 -0500" stop="20160731090000 -0500" channel="Antena 3">
     <title lang="ro">Ştiri (?)</title>
     <sub-title lang="ro">(emis. info.)</sub-title>
     <category lang="ro">3</category>
   </programme>
-  <programme start="20160731090000 -0400" stop="20160731100000 -0400" channel="Antena 3">
+  <programme start="20160731090000 -0500" stop="20160731100000 -0500" channel="Antena 3">
     <title lang="ro">Ştiri (?)</title>
     <sub-title lang="ro">(emis. info.)</sub-title>
     <category lang="ro">3</category>
   </programme>
-  <programme start="20160731100000 -0400" stop="20160731110000 -0400" channel="Antena 3">
+  <programme start="20160731100000 -0500" stop="20160731110000 -0500" channel="Antena 3">
     <title lang="ro">Numai de bine (?)</title>
     <sub-title lang="ro">(2013, mag. life-style)</sub-title>
     <category lang="ro">13</category>
   </programme>
-  <programme start="20160731110000 -0400" stop="20160731120000 -0400" channel="Antena 3">
+  <programme start="20160731110000 -0500" stop="20160731120000 -0500" channel="Antena 3">
     <title lang="ro">Ediţie de weekend (?)</title>
     <sub-title lang="ro">(emis. info.)</sub-title>
     <category lang="ro">3</category>
   </programme>
-  <programme start="20160731120000 -0400" stop="20160731130000 -0400" channel="Antena 3">
+  <programme start="20160731120000 -0500" stop="20160731130000 -0500" channel="Antena 3">
     <title lang="ro">Ştiri (?)</title>
     <sub-title lang="ro">(emis. info.)</sub-title>
     <category lang="ro">3</category>
   </programme>
-  <programme start="20160731130000 -0400" stop="20160731140000 -0400" channel="Antena 3">
+  <programme start="20160731130000 -0500" stop="20160731140000 -0500" channel="Antena 3">
     <title lang="ro">News Magazine (?)</title>
     <sub-title lang="ro">(emis. info.) Cu Mihaela Bîrzilă</sub-title>
     <category lang="ro">6</category>
   </programme>
-  <programme start="20160731140000 -0400" stop="20160731150000 -0400" channel="Antena 3">
+  <programme start="20160731140000 -0500" stop="20160731150000 -0500" channel="Antena 3">
     <title lang="ro">News Magazine (?)</title>
     <sub-title lang="ro">(emis. info.) Cu Mihaela Bîrzilă</sub-title>
     <category lang="ro">6</category>
   </programme>
-  <programme start="20160731150000 -0400" stop="20160731160000 -0400" channel="Antena 3">
+  <programme start="20160731150000 -0500" stop="20160731160000 -0500" channel="Antena 3">
     <title lang="ro">Ştiri (?)</title>
     <sub-title lang="ro">(emis. info.)</sub-title>
     <category lang="ro">3</category>
   </programme>
-  <programme start="20160731160000 -0400" stop="20160731180000 -0400" channel="Antena 3">
+  <programme start="20160731160000 -0500" stop="20160731180000 -0500" channel="Antena 3">
     <title lang="ro">Ediţie de weekend (?)</title>
     <sub-title lang="ro">(emis. info.)</sub-title>
     <category lang="ro">3</category>
   </programme>
-  <programme start="20160731180000 -0400" stop="20160731190000 -0400" channel="Antena 3">
+  <programme start="20160731180000 -0500" stop="20160731190000 -0500" channel="Antena 3">
     <title lang="ro">Ştiri (?)</title>
     <sub-title lang="ro">(emis. info.)</sub-title>
     <category lang="ro">3</category>
   </programme>
-  <programme start="20160731190000 -0400" stop="20160731200000 -0400" channel="Antena 3">
+  <programme start="20160731190000 -0500" stop="20160731200000 -0500" channel="Antena 3">
     <title lang="ro">Punctul de întâlnire (?)</title>
     <sub-title lang="ro">(2010, talk show)</sub-title>
     <category lang="ro">6</category>
   </programme>
-  <programme start="20160731200000 -0400" stop="20160731210000 -0400" channel="Antena 3">
+  <programme start="20160731200000 -0500" stop="20160731210000 -0500" channel="Antena 3">
     <title lang="ro">Punctul de întâlnire (?)</title>
     <sub-title lang="ro">(2010, talk show)</sub-title>
     <category lang="ro">7</category>
   </programme>
-  <programme start="20160731210000 -0400" stop="20160731231500 -0400" channel="Antena 3">
+  <programme start="20160731210000 -0500" stop="20160731231500 -0500" channel="Antena 3">
     <title lang="ro">Sinteza zilei (?)</title>
     <sub-title lang="ro">(talk show)</sub-title>
     <category lang="ro">3</category>
   </programme>
-  <programme start="20160731231500 -0400" stop="20160801000000 -0400" channel="Antena 3">
+  <programme start="20160731231500 -0500" stop="20160801000000 -0500" channel="Antena 3">
     <title lang="ro">În gura presei (?)</title>
     <sub-title lang="ro">(emis. info.)</sub-title>
     <category lang="ro">6</category>
   </programme>
-  <programme start="20160801000000 -0400" stop="20160801010000 -0400" channel="Antena 3">
+  <programme start="20160801000000 -0500" stop="20160801010000 -0500" channel="Antena 3">
     <title lang="ro">Ştiri (?)</title>
     <sub-title lang="ro">(emis. info.)</sub-title>
     <category lang="ro">3</category>
   </programme>
-  <programme start="20160801010000 -0400" stop="20160801020000 -0400" channel="Antena 3">
+  <programme start="20160801010000 -0500" stop="20160801020000 -0500" channel="Antena 3">
     <title lang="ro">Numai de bine (?)</title>
     <sub-title lang="ro">(2013, mag. life-style)</sub-title>
     <category lang="ro">13</category>
   </programme>
-  <programme start="20160801020000 -0400" stop="20160801041500 -0400" channel="Antena 3">
+  <programme start="20160801020000 -0500" stop="20160801041500 -0500" channel="Antena 3">
     <title lang="ro">Sinteza zilei (?)</title>
     <sub-title lang="ro">(talk show)</sub-title>
     <category lang="ro">3</category>
   </programme>
-  <programme start="20160801041500 -0400" stop="20160801044800 -0400" channel="Antena 3">
+  <programme start="20160801041500 -0500" stop="20160801044800 -0500" channel="Antena 3">
     <title lang="ro">În gura presei (?)</title>
     <sub-title lang="ro">(emis. info.)</sub-title>
     <category lang="ro">6</category>
   </programme>
-  <programme start="20160801044800 -0400" stop="20160801060000 -0400" channel="Antena 3">
+  <programme start="20160801044800 -0500" stop="20160801060000 -0500" channel="Antena 3">
     <title lang="ro">Teleshopping (?)</title>
     <sub-title lang="ro">(promo)</sub-title>
     <category lang="ro">13</category>
   </programme>
-  <programme start="20160801060000 -0400" stop="20160801085000 -0400" channel="Antena 3">
+  <programme start="20160801060000 -0500" stop="20160801085000 -0500" channel="Antena 3">
     <title lang="ro">Matinal (?)</title>
     <sub-title lang="ro">(2016, emis. info.)</sub-title>
     <category lang="ro">3</category>
   </programme>
-  <programme start="20160801085000 -0400" stop="20160801090000 -0400" channel="Antena 3">
+  <programme start="20160801085000 -0500" stop="20160801090000 -0500" channel="Antena 3">
     <title lang="ro">Numai de bine (?)</title>
     <sub-title lang="ro">(2013, mag. life-style)</sub-title>
     <category lang="ro">13</category>
   </programme>
-  <programme start="20160801090000 -0400" stop="20160801120000 -0400" channel="Antena 3">
+  <programme start="20160801090000 -0500" stop="20160801120000 -0500" channel="Antena 3">
     <title lang="ro">Previziunile zilei (?)</title>
     <sub-title lang="ro">(2010, emis. info.)</sub-title>
     <category lang="ro">6</category>
   </programme>
-  <programme start="20160801120000 -0400" stop="20160801140000 -0400" channel="Antena 3">
+  <programme start="20160801120000 -0500" stop="20160801140000 -0500" channel="Antena 3">
     <title lang="ro">Obiectiv (?)</title>
     <sub-title lang="ro">
     </sub-title>
     <category lang="ro">6</category>
   </programme>
-  <programme start="20160801140000 -0400" stop="20160801160000 -0400" channel="Antena 3">
+  <programme start="20160801140000 -0500" stop="20160801160000 -0500" channel="Antena 3">
     <title lang="ro">Esenţial (?)</title>
     <sub-title lang="ro">(2010, talk show)</sub-title>
     <category lang="ro">3</category>
   </programme>
-  <programme start="20160801160000 -0400" stop="20160801180000 -0400" channel="Antena 3">
+  <programme start="20160801160000 -0500" stop="20160801180000 -0500" channel="Antena 3">
     <title lang="ro">100 de minute (?)</title>
     <sub-title lang="ro">(2010, emis. info.)</sub-title>
     <category lang="ro">6</category>
   </programme>
-  <programme start="20160801180000 -0400" stop="20160801200000 -0400" channel="Antena 3">
+  <programme start="20160801180000 -0500" stop="20160801200000 -0500" channel="Antena 3">
     <title lang="ro">La ordinea zilei (?)</title>
     <sub-title lang="ro">
     </sub-title>
     <category lang="ro">3</category>
   </programme>
-  <programme start="20160801200000 -0400" stop="20160801210000 -0400" channel="Antena 3">
+  <programme start="20160801200000 -0500" stop="20160801210000 -0500" channel="Antena 3">
     <title lang="ro">Subiectiv (?)</title>
     <sub-title lang="ro">(2010, talk show)</sub-title>
     <category lang="ro">3</category>
   </programme>
-  <programme start="20160801210000 -0400" stop="20160801231500 -0400" channel="Antena 3">
+  <programme start="20160801210000 -0500" stop="20160801231500 -0500" channel="Antena 3">
     <title lang="ro">Sinteza zilei (?)</title>
     <sub-title lang="ro">(talk show)</sub-title>
     <category lang="ro">3</category>
   </programme>
-  <programme start="20160801231500 -0400" stop="20160802000000 -0400" channel="Antena 3">
+  <programme start="20160801231500 -0500" stop="20160802000000 -0500" channel="Antena 3">
     <title lang="ro">În gura presei (?)</title>
     <sub-title lang="ro">(emis. info.)</sub-title>
     <category lang="ro">6</category>
   </programme>
-  <programme start="20160731043000 -0400" stop="20160731051500 -0400" channel="Antena Stars">
+  <programme start="20160731043000 -0500" stop="20160731051500 -0500" channel="Antena Stars">
     <title lang="ro">Dincolo de aparenţe (?)</title>
     <sub-title lang="ro">(talk show)</sub-title>
     <category lang="ro">5</category>
   </programme>
-  <programme start="20160731051500 -0400" stop="20160731060000 -0400" channel="Antena Stars">
+  <programme start="20160731051500 -0500" stop="20160731060000 -0500" channel="Antena Stars">
     <title lang="ro">Alege dragostea (?)</title>
     <sub-title lang="ro">(ind., 2014, s. dr.)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160731060000 -0400" stop="20160731074500 -0400" channel="Antena Stars">
+  <programme start="20160731060000 -0500" stop="20160731074500 -0500" channel="Antena Stars">
     <title lang="ro">Star Magazine (?)</title>
     <sub-title lang="ro">(2013, divertisment)</sub-title>
     <category lang="ro">3</category>
   </programme>
-  <programme start="20160731074500 -0400" stop="20160731080000 -0400" channel="Antena Stars">
+  <programme start="20160731074500 -0500" stop="20160731080000 -0500" channel="Antena Stars">
     <title lang="ro">Teleshopping (?)</title>
     <sub-title lang="ro">(promo)</sub-title>
     <category lang="ro">13</category>
   </programme>
-  <programme start="20160731080000 -0400" stop="20160731083000 -0400" channel="Antena Stars">
+  <programme start="20160731080000 -0500" stop="20160731083000 -0500" channel="Antena Stars">
     <title lang="ro">Star News (?)</title>
     <sub-title lang="ro">(2013, emis. info.)</sub-title>
     <category lang="ro">15</category>
   </programme>
-  <programme start="20160731083000 -0400" stop="20160731120000 -0400" channel="Antena Stars">
+  <programme start="20160731083000 -0500" stop="20160731120000 -0500" channel="Antena Stars">
     <title lang="ro">Star Matinal (?)</title>
     <sub-title lang="ro">(divertisment)</sub-title>
     <category lang="ro">7</category>
   </programme>
-  <programme start="20160731120000 -0400" stop="20160731130000 -0400" channel="Antena Stars">
+  <programme start="20160731120000 -0500" stop="20160731130000 -0500" channel="Antena Stars">
     <title lang="ro">Star Chef (?)</title>
     <sub-title lang="ro">(2014, emis. culinară)</sub-title>
     <category lang="ro">18</category>
   </programme>
-  <programme start="20160731130000 -0400" stop="20160731140000 -0400" channel="Antena Stars">
+  <programme start="20160731130000 -0500" stop="20160731140000 -0500" channel="Antena Stars">
     <title lang="ro">Dincolo de aparenţe (?)</title>
     <sub-title lang="ro">(talk show)</sub-title>
     <category lang="ro">5</category>
   </programme>
-  <programme start="20160731140000 -0400" stop="20160731154500 -0400" channel="Antena Stars">
+  <programme start="20160731140000 -0500" stop="20160731154500 -0500" channel="Antena Stars">
     <title lang="ro">Star Magazine (?)</title>
     <sub-title lang="ro">(2013, divertisment)</sub-title>
     <category lang="ro">3</category>
   </programme>
-  <programme start="20160731154500 -0400" stop="20160731160000 -0400" channel="Antena Stars">
+  <programme start="20160731154500 -0500" stop="20160731160000 -0500" channel="Antena Stars">
     <title lang="ro">Teleshopping (?)</title>
     <sub-title lang="ro">(promo)</sub-title>
     <category lang="ro">13</category>
   </programme>
-  <programme start="20160731160000 -0400" stop="20160731163000 -0400" channel="Antena Stars">
+  <programme start="20160731160000 -0500" stop="20160731163000 -0500" channel="Antena Stars">
     <title lang="ro">Star Zodiac (?)</title>
     <sub-title lang="ro">(2013, emis. info.)</sub-title>
     <category lang="ro">5</category>
   </programme>
-  <programme start="20160731163000 -0400" stop="20160731183000 -0400" channel="Antena Stars">
+  <programme start="20160731163000 -0500" stop="20160731183000 -0500" channel="Antena Stars">
     <title lang="ro">Party-tura lui Morar (?)</title>
     <sub-title lang="ro">(2015, divertisment)</sub-title>
     <category lang="ro">7</category>
   </programme>
-  <programme start="20160731183000 -0400" stop="20160731193000 -0400" channel="Antena Stars">
+  <programme start="20160731183000 -0500" stop="20160731193000 -0500" channel="Antena Stars">
     <title lang="ro">Alege dragostea (?)</title>
     <sub-title lang="ro">(ind., 2014, s. dr.)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160731193000 -0400" stop="20160731200000 -0400" channel="Antena Stars">
+  <programme start="20160731193000 -0500" stop="20160731200000 -0500" channel="Antena Stars">
     <title lang="ro">Star News (?)</title>
     <sub-title lang="ro">(2013, emis. info.)</sub-title>
     <category lang="ro">15</category>
   </programme>
-  <programme start="20160731200000 -0400" stop="20160731220000 -0400" channel="Antena Stars">
+  <programme start="20160731200000 -0500" stop="20160731220000 -0500" channel="Antena Stars">
     <title lang="ro">Dosarele VIP (?)</title>
     <sub-title lang="ro">(divertisment)</sub-title>
     <category lang="ro">5</category>
   </programme>
-  <programme start="20160731220000 -0400" stop="20160731223000 -0400" channel="Antena Stars">
+  <programme start="20160731220000 -0500" stop="20160731223000 -0500" channel="Antena Stars">
     <title lang="ro">VedeTOP (?)</title>
     <sub-title lang="ro">(2014, divertisment)</sub-title>
     <category lang="ro">5</category>
   </programme>
-  <programme start="20160731223000 -0400" stop="20160801003000 -0400" channel="Antena Stars">
+  <programme start="20160731223000 -0500" stop="20160801003000 -0500" channel="Antena Stars">
     <title lang="ro">Test de fidelitate (?)</title>
     <sub-title lang="ro">(reality show)</sub-title>
     <category lang="ro">19</category>
   </programme>
-  <programme start="20160801003000 -0400" stop="20160801020000 -0400" channel="Antena Stars">
+  <programme start="20160801003000 -0500" stop="20160801020000 -0500" channel="Antena Stars">
     <title lang="ro">Star Magazine (?)</title>
     <sub-title lang="ro">(2013, divertisment)</sub-title>
     <category lang="ro">3</category>
   </programme>
-  <programme start="20160801020000 -0400" stop="20160801034500 -0400" channel="Antena Stars">
+  <programme start="20160801020000 -0500" stop="20160801034500 -0500" channel="Antena Stars">
     <title lang="ro">Dosarele VIP (?)</title>
     <sub-title lang="ro">(divertisment)</sub-title>
     <category lang="ro">5</category>
   </programme>
-  <programme start="20160801034500 -0400" stop="20160801040000 -0400" channel="Antena Stars">
+  <programme start="20160801034500 -0500" stop="20160801040000 -0500" channel="Antena Stars">
     <title lang="ro">Test de fidelitate (?)</title>
     <sub-title lang="ro">(reality show)</sub-title>
     <category lang="ro">19</category>
   </programme>
-  <programme start="20160801040000 -0400" stop="20160801043000 -0400" channel="Antena Stars">
+  <programme start="20160801040000 -0500" stop="20160801043000 -0500" channel="Antena Stars">
     <title lang="ro">Star Paparazzo</title>
     <sub-title lang="ro">
     </sub-title>
     <category lang="ro">5</category>
   </programme>
-  <programme start="20160801043000 -0400" stop="20160801053000 -0400" channel="Antena Stars">
+  <programme start="20160801043000 -0500" stop="20160801053000 -0500" channel="Antena Stars">
     <title lang="ro">Burlăciţa (?)</title>
     <sub-title lang="ro">(2015, reality show)</sub-title>
     <category lang="ro">5</category>
   </programme>
-  <programme start="20160801053000 -0400" stop="20160801064500 -0400" channel="Antena Stars">
+  <programme start="20160801053000 -0500" stop="20160801064500 -0500" channel="Antena Stars">
     <title lang="ro">Star Magazine (?)</title>
     <sub-title lang="ro">(2013, divertisment)</sub-title>
     <category lang="ro">3</category>
   </programme>
-  <programme start="20160801064500 -0400" stop="20160801070000 -0400" channel="Antena Stars">
+  <programme start="20160801064500 -0500" stop="20160801070000 -0500" channel="Antena Stars">
     <title lang="ro">Teleshopping (?)</title>
     <sub-title lang="ro">(promo)</sub-title>
     <category lang="ro">13</category>
   </programme>
-  <programme start="20160801070000 -0400" stop="20160801080000 -0400" channel="Antena Stars">
+  <programme start="20160801070000 -0500" stop="20160801080000 -0500" channel="Antena Stars">
     <title lang="ro">Star News (?)</title>
     <sub-title lang="ro">(2015, divertisment)</sub-title>
     <category lang="ro">5</category>
   </programme>
-  <programme start="20160801080000 -0400" stop="20160801090000 -0400" channel="Antena Stars">
+  <programme start="20160801080000 -0500" stop="20160801090000 -0500" channel="Antena Stars">
     <title lang="ro">Preţul libertăţii (?)</title>
     <sub-title lang="ro">(ind., 2014, s. dr.)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160801090000 -0400" stop="20160801120000 -0400" channel="Antena Stars">
+  <programme start="20160801090000 -0500" stop="20160801120000 -0500" channel="Antena Stars">
     <title lang="ro">Star Matinal (?)</title>
     <sub-title lang="ro">(2013, mag. de div.)</sub-title>
     <category lang="ro">5</category>
   </programme>
-  <programme start="20160801120000 -0400" stop="20160801131500 -0400" channel="Antena Stars">
+  <programme start="20160801120000 -0500" stop="20160801131500 -0500" channel="Antena Stars">
     <title lang="ro">Star Magazine (?)</title>
     <sub-title lang="ro">(2013, divertisment)</sub-title>
     <category lang="ro">3</category>
   </programme>
-  <programme start="20160801131500 -0400" stop="20160801133000 -0400" channel="Antena Stars">
+  <programme start="20160801131500 -0500" stop="20160801133000 -0500" channel="Antena Stars">
     <title lang="ro">Teleshopping (?)</title>
     <sub-title lang="ro">(promo)</sub-title>
     <category lang="ro">13</category>
   </programme>
-  <programme start="20160801133000 -0400" stop="20160801153000 -0400" channel="Antena Stars">
+  <programme start="20160801133000 -0500" stop="20160801153000 -0500" channel="Antena Stars">
     <title lang="ro">Dosarele VIP (?)</title>
     <sub-title lang="ro">(divertisment)</sub-title>
     <category lang="ro">5</category>
   </programme>
-  <programme start="20160801153000 -0400" stop="20160801160000 -0400" channel="Antena Stars">
+  <programme start="20160801153000 -0500" stop="20160801160000 -0500" channel="Antena Stars">
     <title lang="ro">Star Magazine (?)</title>
     <sub-title lang="ro">(2013, divertisment)</sub-title>
     <category lang="ro">13</category>
   </programme>
-  <programme start="20160801160000 -0400" stop="20160801164500 -0400" channel="Antena Stars">
+  <programme start="20160801160000 -0500" stop="20160801164500 -0500" channel="Antena Stars">
     <title lang="ro">Teleshopping (?)</title>
     <sub-title lang="ro">(promo)</sub-title>
     <category lang="ro">13</category>
   </programme>
-  <programme start="20160801164500 -0400" stop="20160801184500 -0400" channel="Antena Stars">
+  <programme start="20160801164500 -0500" stop="20160801184500 -0500" channel="Antena Stars">
     <title lang="ro">Star la mare fitză (?)</title>
     <sub-title lang="ro">(divertisment)</sub-title>
     <category lang="ro">5</category>
   </programme>
-  <programme start="20160801184500 -0400" stop="20160801190000 -0400" channel="Antena Stars">
+  <programme start="20160801184500 -0500" stop="20160801190000 -0500" channel="Antena Stars">
     <title lang="ro">Star News (?)</title>
     <sub-title lang="ro">(2013, emis. info.)</sub-title>
     <category lang="ro">15</category>
   </programme>
-  <programme start="20160801190000 -0400" stop="20160801200000 -0400" channel="Antena Stars">
+  <programme start="20160801190000 -0500" stop="20160801200000 -0500" channel="Antena Stars">
     <title lang="ro">Naagin - Femeia Şarpe (?)</title>
     <sub-title lang="ro">(ind., 2015, s. dr.)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160801200000 -0400" stop="20160801224500 -0400" channel="Antena Stars">
+  <programme start="20160801200000 -0500" stop="20160801224500 -0500" channel="Antena Stars">
     <title lang="ro">Burlăciţa (?)</title>
     <sub-title lang="ro">(2015, reality show)</sub-title>
     <category lang="ro">5</category>
   </programme>
-  <programme start="20160801224500 -0400" stop="20160801230000 -0400" channel="Antena Stars">
+  <programme start="20160801224500 -0500" stop="20160801230000 -0500" channel="Antena Stars">
     <title lang="ro">Star Paparazzo</title>
     <sub-title lang="ro">
     </sub-title>
     <category lang="ro">5</category>
   </programme>
-  <programme start="20160801230000 -0400" stop="20160801231500 -0400" channel="Antena Stars">
+  <programme start="20160801230000 -0500" stop="20160801231500 -0500" channel="Antena Stars">
     <title lang="ro">Star News (?)</title>
     <sub-title lang="ro">(2015, divertisment)</sub-title>
     <category lang="ro">5</category>
   </programme>
-  <programme start="20160801231500 -0400" stop="20160802011500 -0400" channel="Antena Stars">
+  <programme start="20160801231500 -0500" stop="20160802011500 -0500" channel="Antena Stars">
     <title lang="ro">Dosarele VIP (?)</title>
     <sub-title lang="ro">(divertisment)</sub-title>
     <category lang="ro">5</category>
   </programme>
-  <programme start="20160731070000 -0400" stop="20160731075500 -0400" channel="AXN">
+  <programme start="20160731070000 -0500" stop="20160731075500 -0500" channel="AXN">
     <title lang="ro">NCIS: Los Angeles (?)</title>
     <sub-title lang="ro">(sua, 2009, s. poliţist, sezonul 5, episodul 4)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160731075500 -0400" stop="20160731085000 -0400" channel="AXN">
+  <programme start="20160731075500 -0500" stop="20160731085000 -0500" channel="AXN">
     <title lang="ro">NCIS: Los Angeles (?)</title>
     <sub-title lang="ro">(sua, 2009, s. poliţist, sezonul 5, episodul 5)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160731085000 -0400" stop="20160731094500 -0400" channel="AXN">
+  <programme start="20160731085000 -0500" stop="20160731094500 -0500" channel="AXN">
     <title lang="ro">NCIS: Los Angeles (?)</title>
     <sub-title lang="ro">(sua, 2009, s. poliţist, sezonul 5, episodul 6)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160731094500 -0400" stop="20160731113500 -0400" channel="AXN">
+  <programme start="20160731094500 -0500" stop="20160731113500 -0500" channel="AXN">
     <title lang="ro">Vieţi furate (?)</title>
     <sub-title lang="ro">(sua, 2009, f. pol.)</sub-title>
     <category lang="ro">2</category>
   </programme>
-  <programme start="20160731113500 -0400" stop="20160731123000 -0400" channel="AXN">
+  <programme start="20160731113500 -0500" stop="20160731123000 -0500" channel="AXN">
     <title lang="ro">CSI: Cyber (?)</title>
     <sub-title lang="ro">(sua, 2015, s. tv, sezonul 1, episodul 11)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160731123000 -0400" stop="20160731132500 -0400" channel="AXN">
+  <programme start="20160731123000 -0500" stop="20160731132500 -0500" channel="AXN">
     <title lang="ro">CSI: Cyber (?)</title>
     <sub-title lang="ro">(sua, 2015, s. tv, sezonul 1, episodul 12)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160731132500 -0400" stop="20160731142500 -0400" channel="AXN">
+  <programme start="20160731132500 -0500" stop="20160731142500 -0500" channel="AXN">
     <title lang="ro">Hawaii 5.0 (?)</title>
     <sub-title lang="ro">(sua, 2010, s. poliţist, sezonul 3, episodul 22)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160731142500 -0400" stop="20160731152500 -0400" channel="AXN">
+  <programme start="20160731142500 -0500" stop="20160731152500 -0500" channel="AXN">
     <title lang="ro">Hawaii 5.0 (?)</title>
     <sub-title lang="ro">(sua, 2010, s. poliţist, sezonul 3, episodul 23)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160731152500 -0400" stop="20160731162000 -0400" channel="AXN">
+  <programme start="20160731152500 -0500" stop="20160731162000 -0500" channel="AXN">
     <title lang="ro">NCIS: Los Angeles (?)</title>
     <sub-title lang="ro">(sua, 2009, s. poliţist, sezonul 5, episodul 5)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160731162000 -0400" stop="20160731171500 -0400" channel="AXN">
+  <programme start="20160731162000 -0500" stop="20160731171500 -0500" channel="AXN">
     <title lang="ro">NCIS: Los Angeles (?)</title>
     <sub-title lang="ro">(sua, 2009, s. poliţist, sezonul 5, episodul 6)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160731171500 -0400" stop="20160731190500 -0400" channel="AXN">
+  <programme start="20160731171500 -0500" stop="20160731190500 -0500" channel="AXN">
     <title lang="ro">Fiecare vede altceva (?)</title>
     <sub-title lang="ro">(sua, 2008, thrill.)</sub-title>
     <category lang="ro">2</category>
   </programme>
-  <programme start="20160731190500 -0400" stop="20160731200500 -0400" channel="AXN">
+  <programme start="20160731190500 -0500" stop="20160731200500 -0500" channel="AXN">
     <title lang="ro">Cititorii de oase (?)</title>
     <sub-title lang="ro">(sua, 2005, s. poliţist, sezonul 2, episodul 21)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160731200500 -0400" stop="20160731210000 -0400" channel="AXN">
+  <programme start="20160731200500 -0500" stop="20160731210000 -0500" channel="AXN">
     <title lang="ro">Cititorii de oase (?)</title>
     <sub-title lang="ro">(sua, 2005, s. poliţist, sezonul 3, episodul 1)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160731210000 -0400" stop="20160731231500 -0400" channel="AXN">
+  <programme start="20160731210000 -0500" stop="20160731231500 -0500" channel="AXN">
     <title lang="ro">Misiune în forţă (?)</title>
     <sub-title lang="ro">(sua, 2006, acţiune)</sub-title>
     <category lang="ro">2</category>
   </programme>
-  <programme start="20160731231500 -0400" stop="20160801010500 -0400" channel="AXN">
+  <programme start="20160731231500 -0500" stop="20160801010500 -0500" channel="AXN">
     <title lang="ro">Indiferenţă (?)</title>
     <sub-title lang="ro">(sua, 2002, thrill.) O tocilară încearcă să devină noua divă a liceului, însă e pe cale să plătească această ambiţie cu propria-i viaţă.</sub-title>
     <category lang="ro">2</category>
   </programme>
-  <programme start="20160801010500 -0400" stop="20160801030500 -0400" channel="AXN">
+  <programme start="20160801010500 -0500" stop="20160801030500 -0500" channel="AXN">
     <title lang="ro">Secretul de la Cold Creek Manor (?)</title>
     <sub-title lang="ro">(sua-can.-engl., 2003, thrill.)</sub-title>
     <category lang="ro">2</category>
   </programme>
-  <programme start="20160801030500 -0400" stop="20160801070500 -0400" channel="AXN">
+  <programme start="20160801030500 -0500" stop="20160801070500 -0500" channel="AXN">
     <title lang="ro">Cititorii de oase (?)</title>
     <sub-title lang="ro">(sua, 2005, s. poliţist, sezonul 3, episodul 1)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160801070500 -0400" stop="20160801073500 -0400" channel="AXN">
+  <programme start="20160801070500 -0500" stop="20160801073500 -0500" channel="AXN">
     <title lang="ro">Cougar Town (?)</title>
     <sub-title lang="ro">(sua, 2009, s. com., sezonul 6, episodul 1)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160801073500 -0400" stop="20160801083000 -0400" channel="AXN">
+  <programme start="20160801073500 -0500" stop="20160801083000 -0500" channel="AXN">
     <title lang="ro">Numerele (?)</title>
     <sub-title lang="ro">(sua, 2005, s. poliţist, sezonul 6, episodul 8)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160801083000 -0400" stop="20160801093000 -0400" channel="AXN">
+  <programme start="20160801083000 -0500" stop="20160801093000 -0500" channel="AXN">
     <title lang="ro">Hawaii 5.0 (?)</title>
     <sub-title lang="ro">(sua, 2010, s. poliţist, sezonul 2, episodul 3)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160801093000 -0400" stop="20160801103000 -0400" channel="AXN">
+  <programme start="20160801093000 -0500" stop="20160801103000 -0500" channel="AXN">
     <title lang="ro">NCIS: Anchetă militară (?)</title>
     <sub-title lang="ro">(sua, 2003, s. poliţist, sezonul 9, episodul 24)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160801103000 -0400" stop="20160801113000 -0400" channel="AXN">
+  <programme start="20160801103000 -0500" stop="20160801113000 -0500" channel="AXN">
     <title lang="ro">Mediumul (?)</title>
     <sub-title lang="ro">(sua, 2005, s. poliţist, sezonul 4, episodul 2)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160801113000 -0400" stop="20160801122500 -0400" channel="AXN">
+  <programme start="20160801113000 -0500" stop="20160801122500 -0500" channel="AXN">
     <title lang="ro">Mediumul (?)</title>
     <sub-title lang="ro">(sua, 2005, s. poliţist, sezonul 4, episodul 3)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160801122500 -0400" stop="20160801132000 -0400" channel="AXN">
+  <programme start="20160801122500 -0500" stop="20160801132000 -0500" channel="AXN">
     <title lang="ro">Numerele (?)</title>
     <sub-title lang="ro">(sua, 2005, s. poliţist, sezonul 6, episodul 8)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160801132000 -0400" stop="20160801142000 -0400" channel="AXN">
+  <programme start="20160801132000 -0500" stop="20160801142000 -0500" channel="AXN">
     <title lang="ro">Hawaii 5.0 (?)</title>
     <sub-title lang="ro">(sua, 2010, s. poliţist, sezonul 2, episodul 3)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160801142000 -0400" stop="20160801152000 -0400" channel="AXN">
+  <programme start="20160801142000 -0500" stop="20160801152000 -0500" channel="AXN">
     <title lang="ro">NCIS: Anchetă militară (?)</title>
     <sub-title lang="ro">(sua, 2003, s. poliţist, sezonul 9, episodul 24)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160801152000 -0400" stop="20160801162000 -0400" channel="AXN">
+  <programme start="20160801152000 -0500" stop="20160801162000 -0500" channel="AXN">
     <title lang="ro">Mediumul (?)</title>
     <sub-title lang="ro">(sua, 2005, s. poliţist, sezonul 4, episodul 4)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160801162000 -0400" stop="20160801172000 -0400" channel="AXN">
+  <programme start="20160801162000 -0500" stop="20160801172000 -0500" channel="AXN">
     <title lang="ro">Memorie perfectă (?)</title>
     <sub-title lang="ro">(sua, 2011, s. poliţist, sezonul 4, episodul 2)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160801172000 -0400" stop="20160801181500 -0400" channel="AXN">
+  <programme start="20160801172000 -0500" stop="20160801181500 -0500" channel="AXN">
     <title lang="ro">Numerele (?)</title>
     <sub-title lang="ro">(sua, 2005, s. poliţist, sezonul 6, episodul 9)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160801181500 -0400" stop="20160801191500 -0400" channel="AXN">
+  <programme start="20160801181500 -0500" stop="20160801191500 -0500" channel="AXN">
     <title lang="ro">Hawaii 5.0 (?)</title>
     <sub-title lang="ro">(sua, 2010, s. poliţist, sezonul 2, episodul 4)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160801191500 -0400" stop="20160801201000 -0400" channel="AXN">
+  <programme start="20160801191500 -0500" stop="20160801201000 -0500" channel="AXN">
     <title lang="ro">NCIS: New Orleans (?)</title>
     <sub-title lang="ro">(sua, 2014, s. poliţist, sezonul 1, episodul 1)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160801201000 -0400" stop="20160801210500 -0400" channel="AXN">
+  <programme start="20160801201000 -0500" stop="20160801210500 -0500" channel="AXN">
     <title lang="ro">Memorie perfectă (?)</title>
     <sub-title lang="ro">(sua, 2011, s. poliţist, sezonul 4, episodul 3)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160801210500 -0400" stop="20160801220000 -0400" channel="AXN">
+  <programme start="20160801210500 -0500" stop="20160801220000 -0500" channel="AXN">
     <title lang="ro">Minţi criminale (?)</title>
     <sub-title lang="ro">(sua-can., 2005, s. poliţist, sezonul 11, episodul 12)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160801220000 -0400" stop="20160801225500 -0400" channel="AXN">
+  <programme start="20160801220000 -0500" stop="20160801225500 -0500" channel="AXN">
     <title lang="ro">Sherlock Holmes şi Dr. Watson (?)</title>
     <sub-title lang="ro">(sua, 2012, s. poliţist, sezonul 4, episodul 23)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160801225500 -0400" stop="20160802011000 -0400" channel="AXN">
+  <programme start="20160801225500 -0500" stop="20160802011000 -0500" channel="AXN">
     <title lang="ro">Misiune în forţă (?)</title>
     <sub-title lang="ro">(sua, 2006, acţiune)</sub-title>
     <category lang="ro">2</category>
   </programme>
-  <programme start="20160731041500 -0400" stop="20160731044000 -0400" channel="AXN Black">
+  <programme start="20160731041500 -0500" stop="20160731044000 -0500" channel="AXN Black">
     <title lang="ro">Mecanici la cratiţă (?)</title>
     <sub-title lang="ro">(can., 2007, s. reality show, sezonul 3, episodul 6)</sub-title>
     <category lang="ro">13</category>
   </programme>
-  <programme start="20160731044000 -0400" stop="20160731050000 -0400" channel="AXN Black">
+  <programme start="20160731044000 -0500" stop="20160731050000 -0500" channel="AXN Black">
     <title lang="ro">Mecanici la cratiţă (?)</title>
     <sub-title lang="ro">(can., 2007, s. reality show, sezonul 3, episodul 7)</sub-title>
     <category lang="ro">13</category>
   </programme>
-  <programme start="20160731050000 -0400" stop="20160731070000 -0400" channel="AXN Black">
+  <programme start="20160731050000 -0500" stop="20160731070000 -0500" channel="AXN Black">
     <title lang="ro">Teleshopping (?)</title>
     <sub-title lang="ro">(promo)</sub-title>
     <category lang="ro">13</category>
   </programme>
-  <programme start="20160731070000 -0400" stop="20160731100000 -0400" channel="AXN Black">
+  <programme start="20160731070000 -0500" stop="20160731100000 -0500" channel="AXN Black">
     <title lang="ro">Teleshopping (?)</title>
     <sub-title lang="ro">(promo)</sub-title>
     <category lang="ro">13</category>
   </programme>
-  <programme start="20160731100000 -0400" stop="20160731103000 -0400" channel="AXN Black">
+  <programme start="20160731100000 -0500" stop="20160731103000 -0500" channel="AXN Black">
     <title lang="ro">Energie în farfurie (?)</title>
     <sub-title lang="ro">(can., 2010, talk show, sezonul 1, episodul 7)</sub-title>
     <category lang="ro">13</category>
   </programme>
-  <programme start="20160731103000 -0400" stop="20160731110000 -0400" channel="AXN Black">
+  <programme start="20160731103000 -0500" stop="20160731110000 -0500" channel="AXN Black">
     <title lang="ro">Energie în farfurie (?)</title>
     <sub-title lang="ro">(can., 2010, talk show, sezonul 1, episodul 8)</sub-title>
     <category lang="ro">13</category>
   </programme>
-  <programme start="20160731110000 -0400" stop="20160731113000 -0400" channel="AXN Black">
+  <programme start="20160731110000 -0500" stop="20160731113000 -0500" channel="AXN Black">
     <title lang="ro">Energie în farfurie (?)</title>
     <sub-title lang="ro">(can., 2010, talk show, sezonul 1, episodul 9)</sub-title>
     <category lang="ro">13</category>
   </programme>
-  <programme start="20160731113000 -0400" stop="20160731120000 -0400" channel="AXN Black">
+  <programme start="20160731113000 -0500" stop="20160731120000 -0500" channel="AXN Black">
     <title lang="ro">Energie în farfurie (?)</title>
     <sub-title lang="ro">(can., 2010, talk show, sezonul 1, episodul 10)</sub-title>
     <category lang="ro">13</category>
   </programme>
-  <programme start="20160731120000 -0400" stop="20160731140000 -0400" channel="AXN Black">
+  <programme start="20160731120000 -0500" stop="20160731140000 -0500" channel="AXN Black">
     <title lang="ro">Teleshopping (?)</title>
     <sub-title lang="ro">(promo)</sub-title>
     <category lang="ro">13</category>
   </programme>
-  <programme start="20160731140000 -0400" stop="20160731143000 -0400" channel="AXN Black">
+  <programme start="20160731140000 -0500" stop="20160731143000 -0500" channel="AXN Black">
     <title lang="ro">Mecanici la cratiţă (?)</title>
     <sub-title lang="ro">(can., 2007, s. reality show, sezonul 3, episodul 4)</sub-title>
     <category lang="ro">13</category>
   </programme>
-  <programme start="20160731143000 -0400" stop="20160731150000 -0400" channel="AXN Black">
+  <programme start="20160731143000 -0500" stop="20160731150000 -0500" channel="AXN Black">
     <title lang="ro">Mecanici la cratiţă (?)</title>
     <sub-title lang="ro">(can., 2007, s. reality show, sezonul 3, episodul 5)</sub-title>
     <category lang="ro">13</category>
   </programme>
-  <programme start="20160731150000 -0400" stop="20160731153000 -0400" channel="AXN Black">
+  <programme start="20160731150000 -0500" stop="20160731153000 -0500" channel="AXN Black">
     <title lang="ro">Mecanici la cratiţă (?)</title>
     <sub-title lang="ro">(can., 2007, s. reality show, sezonul 3, episodul 6)</sub-title>
     <category lang="ro">13</category>
   </programme>
-  <programme start="20160731153000 -0400" stop="20160731160000 -0400" channel="AXN Black">
+  <programme start="20160731153000 -0500" stop="20160731160000 -0500" channel="AXN Black">
     <title lang="ro">Mecanici la cratiţă (?)</title>
     <sub-title lang="ro">(can., 2007, s. reality show, sezonul 3, episodul 7)</sub-title>
     <category lang="ro">13</category>
   </programme>
-  <programme start="20160731160000 -0400" stop="20160731170000 -0400" channel="AXN Black">
+  <programme start="20160731160000 -0500" stop="20160731170000 -0500" channel="AXN Black">
     <title lang="ro">Scorpion (?)</title>
     <sub-title lang="ro">(sua, 2014, s. de acţ., sezonul 1, episodul 7)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160731170000 -0400" stop="20160731180000 -0400" channel="AXN Black">
+  <programme start="20160731170000 -0500" stop="20160731180000 -0500" channel="AXN Black">
     <title lang="ro">Scorpion (?)</title>
     <sub-title lang="ro">(sua, 2014, s. de acţ., sezonul 1, episodul 8)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160731180000 -0400" stop="20160731190000 -0400" channel="AXN Black">
+  <programme start="20160731180000 -0500" stop="20160731190000 -0500" channel="AXN Black">
     <title lang="ro">Cursa eroilor (?)</title>
     <sub-title lang="ro">(sua, 2013, s. reality show, sezonul 1, episodul 1)</sub-title>
     <category lang="ro">19</category>
   </programme>
-  <programme start="20160731190000 -0400" stop="20160731200000 -0400" channel="AXN Black">
+  <programme start="20160731190000 -0500" stop="20160731200000 -0500" channel="AXN Black">
     <title lang="ro">Cursa eroilor (?)</title>
     <sub-title lang="ro">(sua, 2013, s. reality show, sezonul 1, episodul 2)</sub-title>
     <category lang="ro">19</category>
   </programme>
-  <programme start="20160731200000 -0400" stop="20160731210000 -0400" channel="AXN Black">
+  <programme start="20160731200000 -0500" stop="20160731210000 -0500" channel="AXN Black">
     <title lang="ro">Cursa eroilor (?)</title>
     <sub-title lang="ro">(sua, 2013, s. reality show, sezonul 1, episodul 3)</sub-title>
     <category lang="ro">19</category>
   </programme>
-  <programme start="20160731210000 -0400" stop="20160731220000 -0400" channel="AXN Black">
+  <programme start="20160731210000 -0500" stop="20160731220000 -0500" channel="AXN Black">
     <title lang="ro">Cursa eroilor (?)</title>
     <sub-title lang="ro">(sua, 2013, s. reality show, sezonul 1, episodul 4)</sub-title>
     <category lang="ro">19</category>
   </programme>
-  <programme start="20160731220000 -0400" stop="20160731230000 -0400" channel="AXN Black">
+  <programme start="20160731220000 -0500" stop="20160731230000 -0500" channel="AXN Black">
     <title lang="ro">Scorpion (?)</title>
     <sub-title lang="ro">(sua, 2014, s. de acţ., sezonul 1, episodul 7)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160731230000 -0400" stop="20160801000000 -0400" channel="AXN Black">
+  <programme start="20160731230000 -0500" stop="20160801000000 -0500" channel="AXN Black">
     <title lang="ro">Scorpion (?)</title>
     <sub-title lang="ro">(sua, 2014, s. de acţ., sezonul 1, episodul 8)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160801000000 -0400" stop="20160801003000 -0400" channel="AXN Black">
+  <programme start="20160801000000 -0500" stop="20160801003000 -0500" channel="AXN Black">
     <title lang="ro">Duck Commander (?)</title>
     <sub-title lang="ro">(sua, 2012, s. reality show, sezonul 3, episodul 6)</sub-title>
     <category lang="ro">8</category>
   </programme>
-  <programme start="20160801003000 -0400" stop="20160801010000 -0400" channel="AXN Black">
+  <programme start="20160801003000 -0500" stop="20160801010000 -0500" channel="AXN Black">
     <title lang="ro">Duck Commander (?)</title>
     <sub-title lang="ro">(sua, 2012, s. reality show, sezonul 3, episodul 7)</sub-title>
     <category lang="ro">8</category>
   </programme>
-  <programme start="20160801010000 -0400" stop="20160801013000 -0400" channel="AXN Black">
+  <programme start="20160801010000 -0500" stop="20160801013000 -0500" channel="AXN Black">
     <title lang="ro">Duck Commander (?)</title>
     <sub-title lang="ro">(sua, 2012, s. reality show, sezonul 3, episodul 8)</sub-title>
     <category lang="ro">8</category>
   </programme>
-  <programme start="20160801013000 -0400" stop="20160801020000 -0400" channel="AXN Black">
+  <programme start="20160801013000 -0500" stop="20160801020000 -0500" channel="AXN Black">
     <title lang="ro">Duck Commander (?)</title>
     <sub-title lang="ro">(sua, 2012, s. reality show, sezonul 3, episodul 9)</sub-title>
     <category lang="ro">8</category>
   </programme>
-  <programme start="20160801020000 -0400" stop="20160801025500 -0400" channel="AXN Black">
+  <programme start="20160801020000 -0500" stop="20160801025500 -0500" channel="AXN Black">
     <title lang="ro">Cursa eroilor (?)</title>
     <sub-title lang="ro">(sua, 2013, s. reality show, sezonul 1, episodul 1)</sub-title>
     <category lang="ro">19</category>
   </programme>
-  <programme start="20160801025500 -0400" stop="20160801033500 -0400" channel="AXN Black">
+  <programme start="20160801025500 -0500" stop="20160801033500 -0500" channel="AXN Black">
     <title lang="ro">Cursa eroilor (?)</title>
     <sub-title lang="ro">(sua, 2013, s. reality show, sezonul 1, episodul 2)</sub-title>
     <category lang="ro">19</category>
   </programme>
-  <programme start="20160801033500 -0400" stop="20160801041500 -0400" channel="AXN Black">
+  <programme start="20160801033500 -0500" stop="20160801041500 -0500" channel="AXN Black">
     <title lang="ro">Cursa eroilor (?)</title>
     <sub-title lang="ro">(sua, 2013, s. reality show, sezonul 1, episodul 3)</sub-title>
     <category lang="ro">19</category>
   </programme>
-  <programme start="20160801041500 -0400" stop="20160801050000 -0400" channel="AXN Black">
+  <programme start="20160801041500 -0500" stop="20160801050000 -0500" channel="AXN Black">
     <title lang="ro">Cursa eroilor (?)</title>
     <sub-title lang="ro">(sua, 2013, s. reality show, sezonul 1, episodul 4)</sub-title>
     <category lang="ro">19</category>
   </programme>
-  <programme start="20160801050000 -0400" stop="20160801070000 -0400" channel="AXN Black">
+  <programme start="20160801050000 -0500" stop="20160801070000 -0500" channel="AXN Black">
     <title lang="ro">Teleshopping (?)</title>
     <sub-title lang="ro">(promo)</sub-title>
     <category lang="ro">13</category>
   </programme>
-  <programme start="20160801070000 -0400" stop="20160801100000 -0400" channel="AXN Black">
+  <programme start="20160801070000 -0500" stop="20160801100000 -0500" channel="AXN Black">
     <title lang="ro">Teleshopping (?)</title>
     <sub-title lang="ro">(promo)</sub-title>
     <category lang="ro">13</category>
   </programme>
-  <programme start="20160801100000 -0400" stop="20160801110500 -0400" channel="AXN Black">
+  <programme start="20160801100000 -0500" stop="20160801110500 -0500" channel="AXN Black">
     <title lang="ro">Ani de răscruce (?)</title>
     <sub-title lang="ro">(sua, 2014, s. doc., sezonul 1, episodul 5)</sub-title>
     <category lang="ro">10</category>
   </programme>
-  <programme start="20160801110500 -0400" stop="20160801120000 -0400" channel="AXN Black">
+  <programme start="20160801110500 -0500" stop="20160801120000 -0500" channel="AXN Black">
     <title lang="ro">Carnivorul (?)</title>
     <sub-title lang="ro">(sua, 2012, reality show, sezonul 2, episodul 8)</sub-title>
     <category lang="ro">13</category>
   </programme>
-  <programme start="20160801120000 -0400" stop="20160801140000 -0400" channel="AXN Black">
+  <programme start="20160801120000 -0500" stop="20160801140000 -0500" channel="AXN Black">
     <title lang="ro">Teleshopping (?)</title>
     <sub-title lang="ro">(promo)</sub-title>
     <category lang="ro">13</category>
   </programme>
-  <programme start="20160801140000 -0400" stop="20160801145500 -0400" channel="AXN Black">
+  <programme start="20160801140000 -0500" stop="20160801145500 -0500" channel="AXN Black">
     <title lang="ro">Extratereştrii De Pe Atria (?)</title>
     <sub-title lang="ro">(sua, 2014, s. SF, sezonul 1, episodul 10)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160801145500 -0400" stop="20160801155500 -0400" channel="AXN Black">
+  <programme start="20160801145500 -0500" stop="20160801155500 -0500" channel="AXN Black">
     <title lang="ro">Un vârcolac adolescent (?)</title>
     <sub-title lang="ro">(sua, 2011, s. horror, sezonul 5, episodul 12)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160801155500 -0400" stop="20160801165500 -0400" channel="AXN Black">
+  <programme start="20160801155500 -0500" stop="20160801165500 -0500" channel="AXN Black">
     <title lang="ro">Salvatorii de maşini (?)</title>
     <sub-title lang="ro">(sua, 2012, reality show, sezonul 1, episodul 1)</sub-title>
     <category lang="ro">8</category>
   </programme>
-  <programme start="20160801165500 -0400" stop="20160801180500 -0400" channel="AXN Black">
+  <programme start="20160801165500 -0500" stop="20160801180500 -0500" channel="AXN Black">
     <title lang="ro">Ani de răscruce (?)</title>
     <sub-title lang="ro">(sua, 2014, s. doc., sezonul 1, episodul 5)</sub-title>
     <category lang="ro">10</category>
   </programme>
-  <programme start="20160801180500 -0400" stop="20160801191500 -0400" channel="AXN Black">
+  <programme start="20160801180500 -0500" stop="20160801191500 -0500" channel="AXN Black">
     <title lang="ro">Ani de răscruce (?)</title>
     <sub-title lang="ro">(sua, 2014, s. doc., sezonul 1, episodul 6)</sub-title>
     <category lang="ro">10</category>
   </programme>
-  <programme start="20160801191500 -0400" stop="20160801201000 -0400" channel="AXN Black">
+  <programme start="20160801191500 -0500" stop="20160801201000 -0500" channel="AXN Black">
     <title lang="ro">Un vârcolac adolescent (?)</title>
     <sub-title lang="ro">(sua, 2011, s. horror, sezonul 5, episodul 12)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160801201000 -0400" stop="20160801210500 -0400" channel="AXN Black">
+  <programme start="20160801201000 -0500" stop="20160801210500 -0500" channel="AXN Black">
     <title lang="ro">Un vârcolac adolescent (?)</title>
     <sub-title lang="ro">(sua, 2011, s. horror, sezonul 5, episodul 13)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160801210500 -0400" stop="20160801220000 -0400" channel="AXN Black">
+  <programme start="20160801210500 -0500" stop="20160801220000 -0500" channel="AXN Black">
     <title lang="ro">Extratereştrii De Pe Atria (?)</title>
     <sub-title lang="ro">(sua, 2014, s. SF, sezonul 1, episodul 10)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160801220000 -0400" stop="20160801230000 -0400" channel="AXN Black">
+  <programme start="20160801220000 -0500" stop="20160801230000 -0500" channel="AXN Black">
     <title lang="ro">Extratereştrii De Pe Atria (?)</title>
     <sub-title lang="ro">(sua, 2014, s. SF, sezonul 1, episodul 11)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160801230000 -0400" stop="20160802001000 -0400" channel="AXN Black">
+  <programme start="20160801230000 -0500" stop="20160802001000 -0500" channel="AXN Black">
     <title lang="ro">Spartacus (?)</title>
     <sub-title lang="ro">(sua, 2010, s. de acţ., sezonul 4, episodul 5)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160731050000 -0400" stop="20160731070000 -0400" channel="AXN White">
+  <programme start="20160731050000 -0500" stop="20160731070000 -0500" channel="AXN White">
     <title lang="ro">Teleshopping (?)</title>
     <sub-title lang="ro">(promo)</sub-title>
     <category lang="ro">13</category>
   </programme>
-  <programme start="20160731070000 -0400" stop="20160731120500 -0400" channel="AXN White">
+  <programme start="20160731070000 -0500" stop="20160731120500 -0500" channel="AXN White">
     <title lang="ro">Teleshopping (?)</title>
     <sub-title lang="ro">(promo)</sub-title>
     <category lang="ro">13</category>
   </programme>
-  <programme start="20160731120500 -0400" stop="20160731130000 -0400" channel="AXN White">
+  <programme start="20160731120500 -0500" stop="20160731130000 -0500" channel="AXN White">
     <title lang="ro">Ferma Heartland (?)</title>
     <sub-title lang="ro">(can., 2007, s. dr., sezonul 5, episodul 6)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160731130000 -0400" stop="20160731131500 -0400" channel="AXN White">
+  <programme start="20160731130000 -0500" stop="20160731131500 -0500" channel="AXN White">
     <title lang="ro">Teleshopping (?)</title>
     <sub-title lang="ro">(promo)</sub-title>
     <category lang="ro">13</category>
   </programme>
-  <programme start="20160731131500 -0400" stop="20160731141500 -0400" channel="AXN White">
+  <programme start="20160731131500 -0500" stop="20160731141500 -0500" channel="AXN White">
     <title lang="ro">Ferma Heartland (?)</title>
     <sub-title lang="ro">(can., 2007, s. dr., sezonul 5, episodul 7)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160731141500 -0400" stop="20160731162000 -0400" channel="AXN White">
+  <programme start="20160731141500 -0500" stop="20160731162000 -0500" channel="AXN White">
     <title lang="ro">Fear of Loving (?)</title>
     <sub-title lang="ro">(it., 2010, s. dr., sezonul 1, episodul 3)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160731162000 -0400" stop="20160731165000 -0400" channel="AXN White">
+  <programme start="20160731162000 -0500" stop="20160731165000 -0500" channel="AXN White">
     <title lang="ro">Destine (?)</title>
     <sub-title lang="ro">(fra., 2012, s. rom., sezonul 1, episodul 33)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160731165000 -0400" stop="20160731172000 -0400" channel="AXN White">
+  <programme start="20160731165000 -0500" stop="20160731172000 -0500" channel="AXN White">
     <title lang="ro">Destine (?)</title>
     <sub-title lang="ro">(fra., 2012, s. rom., sezonul 1, episodul 34)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160731172000 -0400" stop="20160731175000 -0400" channel="AXN White">
+  <programme start="20160731172000 -0500" stop="20160731175000 -0500" channel="AXN White">
     <title lang="ro">Destine (?)</title>
     <sub-title lang="ro">(fra., 2012, s. rom., sezonul 1, episodul 35)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160731175000 -0400" stop="20160731182000 -0400" channel="AXN White">
+  <programme start="20160731175000 -0500" stop="20160731182000 -0500" channel="AXN White">
     <title lang="ro">Destine (?)</title>
     <sub-title lang="ro">(fra., 2012, s. rom., sezonul 1, episodul 36)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160731182000 -0400" stop="20160731200500 -0400" channel="AXN White">
+  <programme start="20160731182000 -0500" stop="20160731200500 -0500" channel="AXN White">
     <title lang="ro">Toată muzica din inimă (?)</title>
     <sub-title lang="ro">(it., 2013, ser., sezonul 1, episodul 5)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160731200500 -0400" stop="20160731210500 -0400" channel="AXN White">
+  <programme start="20160731200500 -0500" stop="20160731210500 -0500" channel="AXN White">
     <title lang="ro">Hotel Grand (?)</title>
     <sub-title lang="ro">(spa., 2011, s. dr., sezonul 3, episodul 13)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160731210500 -0400" stop="20160731220500 -0400" channel="AXN White">
+  <programme start="20160731210500 -0500" stop="20160731220500 -0500" channel="AXN White">
     <title lang="ro">Hotel Grand (?)</title>
     <sub-title lang="ro">(spa., 2011, s. dr., sezonul 3, episodul 14)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160731220500 -0400" stop="20160731230500 -0400" channel="AXN White">
+  <programme start="20160731220500 -0500" stop="20160731230500 -0500" channel="AXN White">
     <title lang="ro">Hotel Grand (?)</title>
     <sub-title lang="ro">(spa., 2011, s. dr., sezonul 3, episodul 15)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160731230500 -0400" stop="20160801011000 -0400" channel="AXN White">
+  <programme start="20160731230500 -0500" stop="20160801011000 -0500" channel="AXN White">
     <title lang="ro">Fear of Loving (?)</title>
     <sub-title lang="ro">(it., 2010, s. dr., sezonul 1, episodul 3)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160801011000 -0400" stop="20160801021000 -0400" channel="AXN White">
+  <programme start="20160801011000 -0500" stop="20160801021000 -0500" channel="AXN White">
     <title lang="ro">Ferma Heartland (?)</title>
     <sub-title lang="ro">(can., 2007, s. dr., sezonul 5, episodul 15)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160801021000 -0400" stop="20160801024000 -0400" channel="AXN White">
+  <programme start="20160801021000 -0500" stop="20160801024000 -0500" channel="AXN White">
     <title lang="ro">Destine (?)</title>
     <sub-title lang="ro">(fra., 2012, s. rom., sezonul 1, episodul 33)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160801024000 -0400" stop="20160801030500 -0400" channel="AXN White">
+  <programme start="20160801024000 -0500" stop="20160801030500 -0500" channel="AXN White">
     <title lang="ro">Destine (?)</title>
     <sub-title lang="ro">(fra., 2012, s. rom., sezonul 1, episodul 34)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160801030500 -0400" stop="20160801033000 -0400" channel="AXN White">
+  <programme start="20160801030500 -0500" stop="20160801033000 -0500" channel="AXN White">
     <title lang="ro">Destine (?)</title>
     <sub-title lang="ro">(fra., 2012, s. rom., sezonul 1, episodul 35)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160801033000 -0400" stop="20160801035500 -0400" channel="AXN White">
+  <programme start="20160801033000 -0500" stop="20160801035500 -0500" channel="AXN White">
     <title lang="ro">Destine (?)</title>
     <sub-title lang="ro">(fra., 2012, s. rom., sezonul 1, episodul 36)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160801035500 -0400" stop="20160801044000 -0400" channel="AXN White">
+  <programme start="20160801035500 -0500" stop="20160801044000 -0500" channel="AXN White">
     <title lang="ro">Ferma Heartland (?)</title>
     <sub-title lang="ro">(can., 2007, s. dr., sezonul 5, episodul 6)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160801044000 -0400" stop="20160801070000 -0400" channel="AXN White">
+  <programme start="20160801044000 -0500" stop="20160801070000 -0500" channel="AXN White">
     <title lang="ro">AXN Insider - Poliţişti fără frontiere (?)</title>
     <sub-title lang="ro">(f. doc., sezonul 1, episodul 1)</sub-title>
     <category lang="ro">7</category>
   </programme>
-  <programme start="20160801070000 -0400" stop="20160801120000 -0400" channel="AXN White">
+  <programme start="20160801070000 -0500" stop="20160801120000 -0500" channel="AXN White">
     <title lang="ro">Teleshopping (?)</title>
     <sub-title lang="ro">(promo)</sub-title>
     <category lang="ro">13</category>
   </programme>
-  <programme start="20160801120000 -0400" stop="20160801130000 -0400" channel="AXN White">
+  <programme start="20160801120000 -0500" stop="20160801130000 -0500" channel="AXN White">
     <title lang="ro">Verdict: Crimă (?)</title>
     <sub-title lang="ro">(sua, 1984, s. poliţist, sezonul 12, episodul 21)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160801130000 -0400" stop="20160801131500 -0400" channel="AXN White">
+  <programme start="20160801130000 -0500" stop="20160801131500 -0500" channel="AXN White">
     <title lang="ro">Teleshopping (?)</title>
     <sub-title lang="ro">(promo)</sub-title>
     <category lang="ro">13</category>
   </programme>
-  <programme start="20160801131500 -0400" stop="20160801141500 -0400" channel="AXN White">
+  <programme start="20160801131500 -0500" stop="20160801141500 -0500" channel="AXN White">
     <title lang="ro">Verdict: Crimă (?)</title>
     <sub-title lang="ro">(sua, 1984, s. poliţist, sezonul 12, episodul 22)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160801141500 -0400" stop="20160801151500 -0400" channel="AXN White">
+  <programme start="20160801141500 -0500" stop="20160801151500 -0500" channel="AXN White">
     <title lang="ro">Ferma Heartland (?)</title>
     <sub-title lang="ro">(can., 2007, s. dr., sezonul 5, episodul 14)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160801151500 -0400" stop="20160801161500 -0400" channel="AXN White">
+  <programme start="20160801151500 -0500" stop="20160801161500 -0500" channel="AXN White">
     <title lang="ro">Ferma Heartland (?)</title>
     <sub-title lang="ro">(can., 2007, s. dr., sezonul 5, episodul 15)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160801161500 -0400" stop="20160801171500 -0400" channel="AXN White">
+  <programme start="20160801161500 -0500" stop="20160801171500 -0500" channel="AXN White">
     <title lang="ro">Ferma Heartland (?)</title>
     <sub-title lang="ro">(can., 2007, s. dr., sezonul 5, episodul 16)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160801171500 -0400" stop="20160801182000 -0400" channel="AXN White">
+  <programme start="20160801171500 -0500" stop="20160801182000 -0500" channel="AXN White">
     <title lang="ro">Rex Special Unit (?)</title>
     <sub-title lang="ro">(it., 2014, s. poliţist, sezonul 1, episodul 10)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160801182000 -0400" stop="20160801192000 -0400" channel="AXN White">
+  <programme start="20160801182000 -0500" stop="20160801192000 -0500" channel="AXN White">
     <title lang="ro">Rex Special Unit (?)</title>
     <sub-title lang="ro">(it., 2014, s. poliţist, sezonul 1, episodul 11)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160801192000 -0400" stop="20160801202000 -0400" channel="AXN White">
+  <programme start="20160801192000 -0500" stop="20160801202000 -0500" channel="AXN White">
     <title lang="ro">Ferma Heartland (?)</title>
     <sub-title lang="ro">(can., 2007, s. dr., sezonul 5, episodul 16)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160801202000 -0400" stop="20160801212000 -0400" channel="AXN White">
+  <programme start="20160801202000 -0500" stop="20160801212000 -0500" channel="AXN White">
     <title lang="ro">Sherlock Holmes şi Dr. Watson (?)</title>
     <sub-title lang="ro">(sua, 2012, s. poliţist, sezonul 3, episodul 1)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160801212000 -0400" stop="20160801230500 -0400" channel="AXN White">
+  <programme start="20160801212000 -0500" stop="20160801230500 -0500" channel="AXN White">
     <title lang="ro">Toată muzica din inimă (?)</title>
     <sub-title lang="ro">(it., 2013, ser., sezonul 1, episodul 6)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160801230500 -0400" stop="20160802000500 -0400" channel="AXN White">
+  <programme start="20160801230500 -0500" stop="20160802000500 -0500" channel="AXN White">
     <title lang="ro">Secrete şi minciuni (?)</title>
     <sub-title lang="ro">(sua, 2015, s. poliţist, sezonul 1, episodul 7)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160731130000 -0400" stop="20160731132500 -0400" channel="AXN Spin">
+  <programme start="20160731130000 -0500" stop="20160731132500 -0500" channel="AXN Spin">
     <title lang="ro">No information</title>
     <sub-title lang="ro">
     </sub-title>
   </programme>
-  <programme start="20160731132500 -0400" stop="20160731141500 -0400" channel="AXN Spin">
+  <programme start="20160731132500 -0500" stop="20160731141500 -0500" channel="AXN Spin">
     <title lang="ro">Merlin (?)</title>
     <sub-title lang="ro">(engl., 2008,  s. avent., sezonul 4, episodul 8)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160731141500 -0400" stop="20160731150500 -0400" channel="AXN Spin">
+  <programme start="20160731141500 -0500" stop="20160731150500 -0500" channel="AXN Spin">
     <title lang="ro">Merlin (?)</title>
     <sub-title lang="ro">(engl., 2008,  s. avent., sezonul 4, episodul 9)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160731150500 -0400" stop="20160731160000 -0400" channel="AXN Spin">
+  <programme start="20160731150500 -0500" stop="20160731160000 -0500" channel="AXN Spin">
     <title lang="ro">Poliţişti fără frontiere (?)</title>
     <sub-title lang="ro">(fra.-ger.-sua, 2013, s. poliţist, sezonul 1, episodul 10)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160731160000 -0400" stop="20160731165000 -0400" channel="AXN Spin">
+  <programme start="20160731160000 -0500" stop="20160731165000 -0500" channel="AXN Spin">
     <title lang="ro">Merlin (?)</title>
     <sub-title lang="ro">(engl., 2008,  s. avent., sezonul 4, episodul 7)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160731165000 -0400" stop="20160731174000 -0400" channel="AXN Spin">
+  <programme start="20160731165000 -0500" stop="20160731174000 -0500" channel="AXN Spin">
     <title lang="ro">Merlin (?)</title>
     <sub-title lang="ro">(engl., 2008,  s. avent., sezonul 4, episodul 8)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160731174000 -0400" stop="20160731183000 -0400" channel="AXN Spin">
+  <programme start="20160731174000 -0500" stop="20160731183000 -0500" channel="AXN Spin">
     <title lang="ro">Merlin (?)</title>
     <sub-title lang="ro">(engl., 2008,  s. avent., sezonul 4, episodul 9)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160731183000 -0400" stop="20160731192500 -0400" channel="AXN Spin">
+  <programme start="20160731183000 -0500" stop="20160731192500 -0500" channel="AXN Spin">
     <title lang="ro">Poliţişti fără frontiere (?)</title>
     <sub-title lang="ro">(fra.-ger.-sua, 2013, s. poliţist, sezonul 1, episodul 10)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160731192500 -0400" stop="20160731201500 -0400" channel="AXN Spin">
+  <programme start="20160731192500 -0500" stop="20160731201500 -0500" channel="AXN Spin">
     <title lang="ro">Merlin (?)</title>
     <sub-title lang="ro">(engl., 2008,  s. avent., sezonul 4, episodul 8)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160731201500 -0400" stop="20160731210500 -0400" channel="AXN Spin">
+  <programme start="20160731201500 -0500" stop="20160731210500 -0500" channel="AXN Spin">
     <title lang="ro">Merlin (?)</title>
     <sub-title lang="ro">(engl., 2008,  s. avent., sezonul 4, episodul 9)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160731210500 -0400" stop="20160731220000 -0400" channel="AXN Spin">
+  <programme start="20160731210500 -0500" stop="20160731220000 -0500" channel="AXN Spin">
     <title lang="ro">Poliţişti fără frontiere (?)</title>
     <sub-title lang="ro">(fra.-ger.-sua, 2013, s. poliţist, sezonul 1, episodul 10)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160731220000 -0400" stop="20160731225000 -0400" channel="AXN Spin">
+  <programme start="20160731220000 -0500" stop="20160731225000 -0500" channel="AXN Spin">
     <title lang="ro">Autopsia Crimei (?)</title>
     <sub-title lang="ro">(sua, 2010, s. thrill., sezonul 3, episodul 6)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160731225000 -0400" stop="20160731234500 -0400" channel="AXN Spin">
+  <programme start="20160731225000 -0500" stop="20160731234500 -0500" channel="AXN Spin">
     <title lang="ro">Poliţişti fără frontiere (?)</title>
     <sub-title lang="ro">(fra.-ger.-sua, 2013, s. poliţist, sezonul 1, episodul 10)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160731234500 -0400" stop="20160801003000 -0400" channel="AXN Spin">
+  <programme start="20160731234500 -0500" stop="20160801003000 -0500" channel="AXN Spin">
     <title lang="ro">Autopsia Crimei (?)</title>
     <sub-title lang="ro">(sua, 2010, s. thrill., sezonul 3, episodul 3)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160801003000 -0400" stop="20160801013000 -0400" channel="AXN Spin">
+  <programme start="20160801003000 -0500" stop="20160801013000 -0500" channel="AXN Spin">
     <title lang="ro">Autopsia Crimei (?)</title>
     <sub-title lang="ro">(sua, 2010, s. thrill., sezonul 3, episodul 6)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160801013000 -0400" stop="20160801112500 -0400" channel="AXN Spin">
+  <programme start="20160801013000 -0500" stop="20160801112500 -0500" channel="AXN Spin">
     <title lang="ro">No information</title>
     <sub-title lang="ro">
     </sub-title>
   </programme>
-  <programme start="20160801112500 -0400" stop="20160801121500 -0400" channel="AXN Spin">
+  <programme start="20160801112500 -0500" stop="20160801121500 -0500" channel="AXN Spin">
     <title lang="ro">NCIS: Anchetă militară (?)</title>
     <sub-title lang="ro">(sua, 2003, s. poliţist, sezonul 8, episodul 15)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160801121500 -0400" stop="20160801130500 -0400" channel="AXN Spin">
+  <programme start="20160801121500 -0500" stop="20160801130500 -0500" channel="AXN Spin">
     <title lang="ro">NCIS: Anchetă militară (?)</title>
     <sub-title lang="ro">(sua, 2003, s. poliţist, sezonul 8, episodul 16)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160801130500 -0400" stop="20160801135500 -0400" channel="AXN Spin">
+  <programme start="20160801130500 -0500" stop="20160801135500 -0500" channel="AXN Spin">
     <title lang="ro">Fete schimbate (?)</title>
     <sub-title lang="ro">(sua, 2011, ser., sezonul 4, episodul 19)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160801135500 -0400" stop="20160801144500 -0400" channel="AXN Spin">
+  <programme start="20160801135500 -0500" stop="20160801144500 -0500" channel="AXN Spin">
     <title lang="ro">Fete schimbate (?)</title>
     <sub-title lang="ro">(sua, 2011, ser., sezonul 4, episodul 20)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160801144500 -0400" stop="20160801153500 -0400" channel="AXN Spin">
+  <programme start="20160801144500 -0500" stop="20160801153500 -0500" channel="AXN Spin">
     <title lang="ro">NCIS: Anchetă militară (?)</title>
     <sub-title lang="ro">(sua, 2003, s. poliţist, sezonul 8, episodul 15)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160801153500 -0400" stop="20160801162500 -0400" channel="AXN Spin">
+  <programme start="20160801153500 -0500" stop="20160801162500 -0500" channel="AXN Spin">
     <title lang="ro">NCIS: Anchetă militară (?)</title>
     <sub-title lang="ro">(sua, 2003, s. poliţist, sezonul 8, episodul 16)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160801162500 -0400" stop="20160801171000 -0400" channel="AXN Spin">
+  <programme start="20160801162500 -0500" stop="20160801171000 -0500" channel="AXN Spin">
     <title lang="ro">Autopsia Crimei (?)</title>
     <sub-title lang="ro">(sua, 2010, s. thrill., sezonul 2, episodul 14)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160801171000 -0400" stop="20160801180000 -0400" channel="AXN Spin">
+  <programme start="20160801171000 -0500" stop="20160801180000 -0500" channel="AXN Spin">
     <title lang="ro">Fete schimbate (?)</title>
     <sub-title lang="ro">(sua, 2011, ser., sezonul 4, episodul 19)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160801180000 -0400" stop="20160801185000 -0400" channel="AXN Spin">
+  <programme start="20160801180000 -0500" stop="20160801185000 -0500" channel="AXN Spin">
     <title lang="ro">Fete schimbate (?)</title>
     <sub-title lang="ro">(sua, 2011, ser., sezonul 4, episodul 20)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160801185000 -0400" stop="20160801194000 -0400" channel="AXN Spin">
+  <programme start="20160801185000 -0500" stop="20160801194000 -0500" channel="AXN Spin">
     <title lang="ro">Fete schimbate (?)</title>
     <sub-title lang="ro">(sua, 2011, ser., sezonul 4, episodul 21)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160801194000 -0400" stop="20160801203000 -0400" channel="AXN Spin">
+  <programme start="20160801194000 -0500" stop="20160801203000 -0500" channel="AXN Spin">
     <title lang="ro">Fete schimbate (?)</title>
     <sub-title lang="ro">(sua, 2011, ser., sezonul 4, episodul 22)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160801203000 -0400" stop="20160801212000 -0400" channel="AXN Spin">
+  <programme start="20160801203000 -0500" stop="20160801212000 -0500" channel="AXN Spin">
     <title lang="ro">NCIS: Anchetă militară (?)</title>
     <sub-title lang="ro">(sua, 2003, s. poliţist, sezonul 8, episodul 17)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160801212000 -0400" stop="20160801221000 -0400" channel="AXN Spin">
+  <programme start="20160801212000 -0500" stop="20160801221000 -0500" channel="AXN Spin">
     <title lang="ro">NCIS: Anchetă militară (?)</title>
     <sub-title lang="ro">(sua, 2003, s. poliţist, sezonul 8, episodul 18)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160801221000 -0400" stop="20160801230000 -0400" channel="AXN Spin">
+  <programme start="20160801221000 -0500" stop="20160801230000 -0500" channel="AXN Spin">
     <title lang="ro">Autopsia Crimei (?)</title>
     <sub-title lang="ro">(sua, 2010, s. thrill., sezonul 2, episodul 15)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160801230000 -0400" stop="20160802000000 -0400" channel="AXN Spin">
+  <programme start="20160801230000 -0500" stop="20160802000000 -0500" channel="AXN Spin">
     <title lang="ro">Între prieteni (?)</title>
     <sub-title lang="ro">(sua, 2015, s. poliţist, sezonul 1, episodul 10)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160731043000 -0400" stop="20160731053000 -0400" channel="Agro TV">
+  <programme start="20160731043000 -0500" stop="20160731053000 -0500" channel="Agro TV">
     <title lang="ro">Interviul Agro TV</title>
     <sub-title lang="ro">
     </sub-title>
     <category lang="ro">6</category>
   </programme>
-  <programme start="20160731053000 -0400" stop="20160731070000 -0400" channel="Agro TV">
+  <programme start="20160731053000 -0500" stop="20160731070000 -0500" channel="Agro TV">
     <title lang="ro">Profesionişti în agribuisness</title>
     <sub-title lang="ro">
     </sub-title>
     <category lang="ro">6</category>
   </programme>
-  <programme start="20160731070000 -0400" stop="20160731080000 -0400" channel="Agro TV">
+  <programme start="20160731070000 -0500" stop="20160731080000 -0500" channel="Agro TV">
     <title lang="ro">Ştirile Agro TV</title>
     <sub-title lang="ro">
     </sub-title>
     <category lang="ro">15</category>
   </programme>
-  <programme start="20160731080000 -0400" stop="20160731083000 -0400" channel="Agro TV">
+  <programme start="20160731080000 -0500" stop="20160731083000 -0500" channel="Agro TV">
     <title lang="ro">Teleshopping (?)</title>
     <sub-title lang="ro">(promo)</sub-title>
     <category lang="ro">13</category>
   </programme>
-  <programme start="20160731083000 -0400" stop="20160731090000 -0400" channel="Agro TV">
+  <programme start="20160731083000 -0500" stop="20160731090000 -0500" channel="Agro TV">
     <title lang="ro">Agroproiecte de succes (?)</title>
     <sub-title lang="ro">(2013, emis. info.)</sub-title>
     <category lang="ro">6</category>
   </programme>
-  <programme start="20160731090000 -0400" stop="20160731103000 -0400" channel="Agro TV">
+  <programme start="20160731090000 -0500" stop="20160731103000 -0500" channel="Agro TV">
     <title lang="ro">Din lumea satului</title>
     <sub-title lang="ro">
     </sub-title>
     <category lang="ro">6</category>
   </programme>
-  <programme start="20160731103000 -0400" stop="20160731120000 -0400" channel="Agro TV">
+  <programme start="20160731103000 -0500" stop="20160731120000 -0500" channel="Agro TV">
     <title lang="ro">Performanţă şi agricultură (?)</title>
     <sub-title lang="ro">(2013, talk show)</sub-title>
     <category lang="ro">6</category>
   </programme>
-  <programme start="20160731120000 -0400" stop="20160731123000 -0400" channel="Agro TV">
+  <programme start="20160731120000 -0500" stop="20160731123000 -0500" channel="Agro TV">
     <title lang="ro">Agroproiecte de succes (?)</title>
     <sub-title lang="ro">(2013, emis. info.)</sub-title>
     <category lang="ro">6</category>
   </programme>
-  <programme start="20160731123000 -0400" stop="20160731130000 -0400" channel="Agro TV">
+  <programme start="20160731123000 -0500" stop="20160731130000 -0500" channel="Agro TV">
     <title lang="ro">Agroproiecte de succes (?)</title>
     <sub-title lang="ro">(2013, emis. info.)</sub-title>
     <category lang="ro">6</category>
   </programme>
-  <programme start="20160731130000 -0400" stop="20160731143000 -0400" channel="Agro TV">
+  <programme start="20160731130000 -0500" stop="20160731143000 -0500" channel="Agro TV">
     <title lang="ro">Din lumea satului</title>
     <sub-title lang="ro">
     </sub-title>
     <category lang="ro">6</category>
   </programme>
-  <programme start="20160731143000 -0400" stop="20160731153000 -0400" channel="Agro TV">
+  <programme start="20160731143000 -0500" stop="20160731153000 -0500" channel="Agro TV">
     <title lang="ro">Interviul Agro Tv</title>
     <sub-title lang="ro">
     </sub-title>
     <category lang="ro">6</category>
   </programme>
-  <programme start="20160731153000 -0400" stop="20160731160000 -0400" channel="Agro TV">
+  <programme start="20160731153000 -0500" stop="20160731160000 -0500" channel="Agro TV">
     <title lang="ro">Tehnologii şi utilaje (?)</title>
     <sub-title lang="ro">(2013, emis. info.)</sub-title>
     <category lang="ro">6</category>
   </programme>
-  <programme start="20160731160000 -0400" stop="20160731170000 -0400" channel="Agro TV">
+  <programme start="20160731160000 -0500" stop="20160731170000 -0500" channel="Agro TV">
     <title lang="ro">Teleshopping (?)</title>
     <sub-title lang="ro">(promo)</sub-title>
     <category lang="ro">13</category>
   </programme>
-  <programme start="20160731170000 -0400" stop="20160731180000 -0400" channel="Agro TV">
+  <programme start="20160731170000 -0500" stop="20160731180000 -0500" channel="Agro TV">
     <title lang="ro">Performanţă şi agricultură (?)</title>
     <sub-title lang="ro">(2013, talk show)</sub-title>
     <category lang="ro">6</category>
   </programme>
-  <programme start="20160731180000 -0400" stop="20160731190000 -0400" channel="Agro TV">
+  <programme start="20160731180000 -0500" stop="20160731190000 -0500" channel="Agro TV">
     <title lang="ro">România agricolă (?)</title>
     <sub-title lang="ro">(2013, talk show) Cu: Ştefan Rancu şi Mihaela Prevenda</sub-title>
     <category lang="ro">6</category>
   </programme>
-  <programme start="20160731190000 -0400" stop="20160731220000 -0400" channel="Agro TV">
+  <programme start="20160731190000 -0500" stop="20160731220000 -0500" channel="Agro TV">
     <title lang="ro">Cântec mândru românesc (?)</title>
     <sub-title lang="ro">(mag. life-style)</sub-title>
     <category lang="ro">20</category>
   </programme>
-  <programme start="20160731220000 -0400" stop="20160731233000 -0400" channel="Agro TV">
+  <programme start="20160731220000 -0500" stop="20160731233000 -0500" channel="Agro TV">
     <title lang="ro">Din lumea satului</title>
     <sub-title lang="ro">
     </sub-title>
     <category lang="ro">6</category>
   </programme>
-  <programme start="20160731233000 -0400" stop="20160801000000 -0400" channel="Agro TV">
+  <programme start="20160731233000 -0500" stop="20160801000000 -0500" channel="Agro TV">
     <title lang="ro">Cântec Romanesc</title>
     <sub-title lang="ro">
     </sub-title>
     <category lang="ro">20</category>
   </programme>
-  <programme start="20160801000000 -0400" stop="20160801003000 -0400" channel="Agro TV">
+  <programme start="20160801000000 -0500" stop="20160801003000 -0500" channel="Agro TV">
     <title lang="ro">Tehnologii şi utilaje (?)</title>
     <sub-title lang="ro">(2013, emis. info.)</sub-title>
     <category lang="ro">6</category>
   </programme>
-  <programme start="20160801003000 -0400" stop="20160801013000 -0400" channel="Agro TV">
+  <programme start="20160801003000 -0500" stop="20160801013000 -0500" channel="Agro TV">
     <title lang="ro">Teleshopping (?)</title>
     <sub-title lang="ro">(promo)</sub-title>
     <category lang="ro">13</category>
   </programme>
-  <programme start="20160801013000 -0400" stop="20160801023000 -0400" channel="Agro TV">
+  <programme start="20160801013000 -0500" stop="20160801023000 -0500" channel="Agro TV">
     <title lang="ro">Performanţă şi agricultură (?)</title>
     <sub-title lang="ro">(2013, talk show)</sub-title>
     <category lang="ro">6</category>
   </programme>
-  <programme start="20160801023000 -0400" stop="20160801033000 -0400" channel="Agro TV">
+  <programme start="20160801023000 -0500" stop="20160801033000 -0500" channel="Agro TV">
     <title lang="ro">România agricolă (?)</title>
     <sub-title lang="ro">(2013, talk show) Cu: Ştefan Rancu şi Mihaela Prevenda</sub-title>
     <category lang="ro">6</category>
   </programme>
-  <programme start="20160801033000 -0400" stop="20160801070000 -0400" channel="Agro TV">
+  <programme start="20160801033000 -0500" stop="20160801070000 -0500" channel="Agro TV">
     <title lang="ro">Cântec mândru românesc</title>
     <sub-title lang="ro">(mag. life-style)</sub-title>
     <category lang="ro">20</category>
   </programme>
-  <programme start="20160801070000 -0400" stop="20160801073000 -0400" channel="Agro TV">
+  <programme start="20160801070000 -0500" stop="20160801073000 -0500" channel="Agro TV">
     <title lang="ro">Ştirile Agro TV</title>
     <sub-title lang="ro">
     </sub-title>
     <category lang="ro">6</category>
   </programme>
-  <programme start="20160801073000 -0400" stop="20160801083000 -0400" channel="Agro TV">
+  <programme start="20160801073000 -0500" stop="20160801083000 -0500" channel="Agro TV">
     <title lang="ro">Jurnal de agricultură (?)</title>
     <sub-title lang="ro">(emis. info.)</sub-title>
     <category lang="ro">15</category>
   </programme>
-  <programme start="20160801083000 -0400" stop="20160801090000 -0400" channel="Agro TV">
+  <programme start="20160801083000 -0500" stop="20160801090000 -0500" channel="Agro TV">
     <title lang="ro">Agroproiecte de succes (?)</title>
     <sub-title lang="ro">(2013, emis. info.)</sub-title>
     <category lang="ro">6</category>
   </programme>
-  <programme start="20160801090000 -0400" stop="20160801100000 -0400" channel="Agro TV">
+  <programme start="20160801090000 -0500" stop="20160801100000 -0500" channel="Agro TV">
     <title lang="ro">Mereu în formă</title>
     <sub-title lang="ro">
     </sub-title>
     <category lang="ro">6</category>
   </programme>
-  <programme start="20160801100000 -0400" stop="20160801113000 -0400" channel="Agro TV">
+  <programme start="20160801100000 -0500" stop="20160801113000 -0500" channel="Agro TV">
     <title lang="ro">Din lumea satului</title>
     <sub-title lang="ro">
     </sub-title>
     <category lang="ro">6</category>
   </programme>
-  <programme start="20160801113000 -0400" stop="20160801120000 -0400" channel="Agro TV">
+  <programme start="20160801113000 -0500" stop="20160801120000 -0500" channel="Agro TV">
     <title lang="ro">Tradiţii şi meşteşuguri (?)</title>
     <sub-title lang="ro">(2013, emis. mag.)</sub-title>
     <category lang="ro">6</category>
   </programme>
-  <programme start="20160801120000 -0400" stop="20160801130000 -0400" channel="Agro TV">
+  <programme start="20160801120000 -0500" stop="20160801130000 -0500" channel="Agro TV">
     <title lang="ro">Teleshopping (?)</title>
     <sub-title lang="ro">(promo)</sub-title>
     <category lang="ro">13</category>
   </programme>
-  <programme start="20160801130000 -0400" stop="20160801140000 -0400" channel="Agro TV">
+  <programme start="20160801130000 -0500" stop="20160801140000 -0500" channel="Agro TV">
     <title lang="ro">Agroproiecte de succes (?)</title>
     <sub-title lang="ro">(2013, emis. info.)</sub-title>
     <category lang="ro">6</category>
   </programme>
-  <programme start="20160801140000 -0400" stop="20160801143000 -0400" channel="Agro TV">
+  <programme start="20160801140000 -0500" stop="20160801143000 -0500" channel="Agro TV">
     <title lang="ro">Ştirile Agro TV</title>
     <sub-title lang="ro">
     </sub-title>
     <category lang="ro">15</category>
   </programme>
-  <programme start="20160801143000 -0400" stop="20160801153000 -0400" channel="Agro TV">
+  <programme start="20160801143000 -0500" stop="20160801153000 -0500" channel="Agro TV">
     <title lang="ro">Jurnal de agricultură (?)</title>
     <sub-title lang="ro">(emis. info.)</sub-title>
     <category lang="ro">15</category>
   </programme>
-  <programme start="20160801153000 -0400" stop="20160801160000 -0400" channel="Agro TV">
+  <programme start="20160801153000 -0500" stop="20160801160000 -0500" channel="Agro TV">
     <title lang="ro">Agroproiecte de succes (?)</title>
     <sub-title lang="ro">(2013, emis. info.)</sub-title>
     <category lang="ro">6</category>
   </programme>
-  <programme start="20160801160000 -0400" stop="20160801163000 -0400" channel="Agro TV">
+  <programme start="20160801160000 -0500" stop="20160801163000 -0500" channel="Agro TV">
     <title lang="ro">Teleshopping (?)</title>
     <sub-title lang="ro">(promo)</sub-title>
     <category lang="ro">13</category>
   </programme>
-  <programme start="20160801163000 -0400" stop="20160801173000 -0400" channel="Agro TV">
+  <programme start="20160801163000 -0500" stop="20160801173000 -0500" channel="Agro TV">
     <title lang="ro">Cântec Românesc</title>
     <sub-title lang="ro">
     </sub-title>
     <category lang="ro">6</category>
   </programme>
-  <programme start="20160801173000 -0400" stop="20160801180000 -0400" channel="Agro TV">
+  <programme start="20160801173000 -0500" stop="20160801180000 -0500" channel="Agro TV">
     <title lang="ro">Agroproiecte de succes (?)</title>
     <sub-title lang="ro">(2013, emis. info.)</sub-title>
     <category lang="ro">6</category>
   </programme>
-  <programme start="20160801180000 -0400" stop="20160801183000 -0400" channel="Agro TV">
+  <programme start="20160801180000 -0500" stop="20160801183000 -0500" channel="Agro TV">
     <title lang="ro">Agroproiecte de succes (?)</title>
     <sub-title lang="ro">(2013, emis. info.)</sub-title>
     <category lang="ro">6</category>
   </programme>
-  <programme start="20160801183000 -0400" stop="20160801190000 -0400" channel="Agro TV">
+  <programme start="20160801183000 -0500" stop="20160801190000 -0500" channel="Agro TV">
     <title lang="ro">Agroproiecte de succes (?)</title>
     <sub-title lang="ro">(2013, emis. info.)</sub-title>
     <category lang="ro">6</category>
   </programme>
-  <programme start="20160801190000 -0400" stop="20160801193000 -0400" channel="Agro TV">
+  <programme start="20160801190000 -0500" stop="20160801193000 -0500" channel="Agro TV">
     <title lang="ro">Agroproiecte de succes (?)</title>
     <sub-title lang="ro">(2013, emis. info.)</sub-title>
     <category lang="ro">6</category>
   </programme>
-  <programme start="20160801193000 -0400" stop="20160801200000 -0400" channel="Agro TV">
+  <programme start="20160801193000 -0500" stop="20160801200000 -0500" channel="Agro TV">
     <title lang="ro">Ştirile Agro TV</title>
     <sub-title lang="ro">
     </sub-title>
     <category lang="ro">6</category>
   </programme>
-  <programme start="20160801200000 -0400" stop="20160801210000 -0400" channel="Agro TV">
+  <programme start="20160801200000 -0500" stop="20160801210000 -0500" channel="Agro TV">
     <title lang="ro">Jurnal de agricultură (?)</title>
     <sub-title lang="ro">(emis. info.)</sub-title>
     <category lang="ro">15</category>
   </programme>
-  <programme start="20160801210000 -0400" stop="20160801223000 -0400" channel="Agro TV">
+  <programme start="20160801210000 -0500" stop="20160801223000 -0500" channel="Agro TV">
     <title lang="ro">Din lumea satului</title>
     <sub-title lang="ro">
     </sub-title>
     <category lang="ro">6</category>
   </programme>
-  <programme start="20160801223000 -0400" stop="20160802000000 -0400" channel="Agro TV">
+  <programme start="20160801223000 -0500" stop="20160802000000 -0500" channel="Agro TV">
     <title lang="ro">Cântec românesc</title>
     <sub-title lang="ro">
     </sub-title>
     <category lang="ro">7</category>
   </programme>
-  <programme start="20160731042000 -0400" stop="20160731062500 -0400" channel="TVR 1">
+  <programme start="20160731042000 -0500" stop="20160731062500 -0500" channel="TVR 1">
     <title lang="ro">Viaţa satului (?)</title>
     <sub-title lang="ro">(program cult.)</sub-title>
     <category lang="ro">6</category>
   </programme>
-  <programme start="20160731062500 -0400" stop="20160731065500 -0400" channel="TVR 1">
+  <programme start="20160731062500 -0500" stop="20160731065500 -0500" channel="TVR 1">
     <title lang="ro">Teleshopping (?)</title>
     <sub-title lang="ro">(promo)</sub-title>
     <category lang="ro">13</category>
   </programme>
-  <programme start="20160731065500 -0400" stop="20160731070000 -0400" channel="TVR 1">
+  <programme start="20160731065500 -0500" stop="20160731070000 -0500" channel="TVR 1">
     <title lang="ro">Imnul României (?)</title>
     <sub-title lang="ro">(musical)</sub-title>
     <category lang="ro">14</category>
   </programme>
-  <programme start="20160731070000 -0400" stop="20160731075000 -0400" channel="TVR 1">
+  <programme start="20160731070000 -0500" stop="20160731075000 -0500" channel="TVR 1">
     <title lang="ro">TeleEnciclopedia (?)</title>
     <sub-title lang="ro">(1965, emis. info.)</sub-title>
     <category lang="ro">8</category>
   </programme>
-  <programme start="20160731075000 -0400" stop="20160731075500 -0400" channel="TVR 1">
+  <programme start="20160731075000 -0500" stop="20160731075500 -0500" channel="TVR 1">
     <title lang="ro">Filler Jocurile Olimpice Rio 2016</title>
     <sub-title lang="ro">
     </sub-title>
     <category lang="ro">1</category>
   </programme>
-  <programme start="20160731075500 -0400" stop="20160731081000 -0400" channel="TVR 1">
+  <programme start="20160731075500 -0500" stop="20160731081000 -0500" channel="TVR 1">
     <title lang="ro">Sporturi</title>
     <sub-title lang="ro">
     </sub-title>
     <category lang="ro">1</category>
   </programme>
-  <programme start="20160731081000 -0400" stop="20160731093000 -0400" channel="TVR 1">
+  <programme start="20160731081000 -0500" stop="20160731093000 -0500" channel="TVR 1">
     <title lang="ro">Universul credinţei (?)</title>
     <sub-title lang="ro">
     </sub-title>
     <category lang="ro">11</category>
   </programme>
-  <programme start="20160731093000 -0400" stop="20160731100000 -0400" channel="TVR 1">
+  <programme start="20160731093000 -0500" stop="20160731100000 -0500" channel="TVR 1">
     <title lang="ro">Pro Patria (?)</title>
     <sub-title lang="ro">(emis. info.)</sub-title>
     <category lang="ro">6</category>
   </programme>
-  <programme start="20160731100000 -0400" stop="20160731103500 -0400" channel="TVR 1">
+  <programme start="20160731100000 -0500" stop="20160731103500 -0500" channel="TVR 1">
     <title lang="ro">În grădina Danei (?)</title>
     <sub-title lang="ro">(2011, mag. life-style) Cu: Dana Constantinescu</sub-title>
     <category lang="ro">13</category>
   </programme>
-  <programme start="20160731103500 -0400" stop="20160731115000 -0400" channel="TVR 1">
+  <programme start="20160731103500 -0500" stop="20160731115000 -0500" channel="TVR 1">
     <title lang="ro">Viaţa satului (?)</title>
     <sub-title lang="ro">(program cult.)</sub-title>
     <category lang="ro">6</category>
   </programme>
-  <programme start="20160731115000 -0400" stop="20160731120000 -0400" channel="TVR 1">
+  <programme start="20160731115000 -0500" stop="20160731120000 -0500" channel="TVR 1">
     <title lang="ro">Minutul de agricultură</title>
     <sub-title lang="ro">
     </sub-title>
     <category lang="ro">13</category>
   </programme>
-  <programme start="20160731120000 -0400" stop="20160731130000 -0400" channel="TVR 1">
+  <programme start="20160731120000 -0500" stop="20160731130000 -0500" channel="TVR 1">
     <title lang="ro">Viaţa satului (?)</title>
     <sub-title lang="ro">(program cult.)</sub-title>
     <category lang="ro">6</category>
   </programme>
-  <programme start="20160731130000 -0400" stop="20160731140000 -0400" channel="TVR 1">
+  <programme start="20160731130000 -0500" stop="20160731140000 -0500" channel="TVR 1">
     <title lang="ro">Tezaur folcloric (?)</title>
     <sub-title lang="ro">(progr.muz.) Producător: Gheorghiţa Nicolae &lt;br/&gt;&lt;br/&gt;</sub-title>
     <category lang="ro">14</category>
   </programme>
-  <programme start="20160731140000 -0400" stop="20160731143000 -0400" channel="TVR 1">
+  <programme start="20160731140000 -0500" stop="20160731143000 -0500" channel="TVR 1">
     <title lang="ro">Telejurnal (?)</title>
     <sub-title lang="ro">(emis. info.)</sub-title>
     <category lang="ro">15</category>
   </programme>
-  <programme start="20160731143000 -0400" stop="20160731150000 -0400" channel="TVR 1">
+  <programme start="20160731143000 -0500" stop="20160731150000 -0500" channel="TVR 1">
     <title lang="ro">Descălecaţi în Carpaţi - Colţ de Rai cu natură şi cai (?)</title>
     <sub-title lang="ro">(2016, s. doc., episodul 12)</sub-title>
     <category lang="ro">3</category>
   </programme>
-  <programme start="20160731150000 -0400" stop="20160731161000 -0400" channel="TVR 1">
+  <programme start="20160731150000 -0500" stop="20160731161000 -0500" channel="TVR 1">
     <title lang="ro">Politică şi delicateţuri (?)</title>
     <sub-title lang="ro">(emis. mag.) Producător Dan Manoliu</sub-title>
     <category lang="ro">13</category>
   </programme>
-  <programme start="20160731161000 -0400" stop="20160731180000 -0400" channel="TVR 1">
+  <programme start="20160731161000 -0500" stop="20160731180000 -0500" channel="TVR 1">
     <title lang="ro">Seri de vară la Mamaia</title>
     <sub-title lang="ro">
     </sub-title>
     <category lang="ro">7</category>
   </programme>
-  <programme start="20160731180000 -0400" stop="20160731183500 -0400" channel="TVR 1">
+  <programme start="20160731180000 -0500" stop="20160731183500 -0500" channel="TVR 1">
     <title lang="ro">Lozul cel mare (?)</title>
     <sub-title lang="ro">(divertisment)</sub-title>
     <category lang="ro">5</category>
   </programme>
-  <programme start="20160731183500 -0400" stop="20160731194500 -0400" channel="TVR 1">
+  <programme start="20160731183500 -0500" stop="20160731194500 -0500" channel="TVR 1">
     <title lang="ro">Brasil, Brasil (?)</title>
     <sub-title lang="ro">(fra., 2013, f. doc.)</sub-title>
     <category lang="ro">10</category>
   </programme>
-  <programme start="20160731194500 -0400" stop="20160731200000 -0400" channel="TVR 1">
+  <programme start="20160731194500 -0500" stop="20160731200000 -0500" channel="TVR 1">
     <title lang="ro">Sport (?)</title>
     <sub-title lang="ro">
     </sub-title>
     <category lang="ro">1</category>
   </programme>
-  <programme start="20160731200000 -0400" stop="20160731205000 -0400" channel="TVR 1">
+  <programme start="20160731200000 -0500" stop="20160731205000 -0500" channel="TVR 1">
     <title lang="ro">Telejurnal (?)</title>
     <sub-title lang="ro">(emis. info.)</sub-title>
     <category lang="ro">15</category>
   </programme>
-  <programme start="20160731205000 -0400" stop="20160731210000 -0400" channel="TVR 1">
+  <programme start="20160731205000 -0500" stop="20160731210000 -0500" channel="TVR 1">
     <title lang="ro">Filler Jocurile Olimpice Rio 2016</title>
     <sub-title lang="ro">
     </sub-title>
     <category lang="ro">1</category>
   </programme>
-  <programme start="20160731210000 -0400" stop="20160731211500 -0400" channel="TVR 1">
+  <programme start="20160731210000 -0500" stop="20160731211500 -0500" channel="TVR 1">
     <title lang="ro">Meteo</title>
     <sub-title lang="ro">
     </sub-title>
     <category lang="ro">3</category>
   </programme>
-  <programme start="20160731211500 -0400" stop="20160731223500 -0400" channel="TVR 1">
+  <programme start="20160731211500 -0500" stop="20160731223500 -0500" channel="TVR 1">
     <title lang="ro">Drumul spre glorie (?)</title>
     <sub-title lang="ro">(2016, emis. sport)</sub-title>
     <category lang="ro">6</category>
   </programme>
-  <programme start="20160731223500 -0400" stop="20160731224000 -0400" channel="TVR 1">
+  <programme start="20160731223500 -0500" stop="20160731224000 -0500" channel="TVR 1">
     <title lang="ro">Sporturi</title>
     <sub-title lang="ro">
     </sub-title>
     <category lang="ro">1</category>
   </programme>
-  <programme start="20160731224000 -0400" stop="20160731234000 -0400" channel="TVR 1">
+  <programme start="20160731224000 -0500" stop="20160731234000 -0500" channel="TVR 1">
     <title lang="ro">Garantat 100% (?)</title>
     <sub-title lang="ro">(talk show)</sub-title>
     <category lang="ro">7</category>
   </programme>
-  <programme start="20160731234000 -0400" stop="20160801012500 -0400" channel="TVR 1">
+  <programme start="20160731234000 -0500" stop="20160801012500 -0500" channel="TVR 1">
     <title lang="ro">Seri de vară la Mamaia</title>
     <sub-title lang="ro">
     </sub-title>
     <category lang="ro">7</category>
   </programme>
-  <programme start="20160801012500 -0400" stop="20160801013000 -0400" channel="TVR 1">
+  <programme start="20160801012500 -0500" stop="20160801013000 -0500" channel="TVR 1">
     <title lang="ro">Filler Jocurile Olimpice Rio 2016</title>
     <sub-title lang="ro">
     </sub-title>
     <category lang="ro">1</category>
   </programme>
-  <programme start="20160801013000 -0400" stop="20160801021000 -0400" channel="TVR 1">
+  <programme start="20160801013000 -0500" stop="20160801021000 -0500" channel="TVR 1">
     <title lang="ro">Pe urmele lui Vittorio de Sica</title>
     <sub-title lang="ro">
     </sub-title>
     <category lang="ro">10</category>
   </programme>
-  <programme start="20160801021000 -0400" stop="20160801022500 -0400" channel="TVR 1">
+  <programme start="20160801021000 -0500" stop="20160801022500 -0500" channel="TVR 1">
     <title lang="ro">Sport (?)</title>
     <sub-title lang="ro">
     </sub-title>
     <category lang="ro">1</category>
   </programme>
-  <programme start="20160801022500 -0400" stop="20160801031500 -0400" channel="TVR 1">
+  <programme start="20160801022500 -0500" stop="20160801031500 -0500" channel="TVR 1">
     <title lang="ro">Telejurnal (?)</title>
     <sub-title lang="ro">(emis. info.) Telejurnalul, legătura ta cu lumea!</sub-title>
     <category lang="ro">3</category>
   </programme>
-  <programme start="20160801031500 -0400" stop="20160801032500 -0400" channel="TVR 1">
+  <programme start="20160801031500 -0500" stop="20160801032500 -0500" channel="TVR 1">
     <title lang="ro">Vorbeşte corect! (?)</title>
     <sub-title lang="ro">(emis. info.)</sub-title>
     <category lang="ro">7</category>
   </programme>
-  <programme start="20160801032500 -0400" stop="20160801041500 -0400" channel="TVR 1">
+  <programme start="20160801032500 -0500" stop="20160801041500 -0500" channel="TVR 1">
     <title lang="ro">Politică şi delicateţuri (?)</title>
     <sub-title lang="ro">(emis. mag.) Producător Dan Manoliu</sub-title>
     <category lang="ro">13</category>
   </programme>
-  <programme start="20160801041500 -0400" stop="20160801053500 -0400" channel="TVR 1">
+  <programme start="20160801041500 -0500" stop="20160801053500 -0500" channel="TVR 1">
     <title lang="ro">Universul credinţei (?)</title>
     <sub-title lang="ro">
     </sub-title>
     <category lang="ro">11</category>
   </programme>
-  <programme start="20160801053500 -0400" stop="20160801062500 -0400" channel="TVR 1">
+  <programme start="20160801053500 -0500" stop="20160801062500 -0500" channel="TVR 1">
     <title lang="ro">Tezaur folcloric (?)</title>
     <sub-title lang="ro">(progr.muz.) Producător: Gheorghiţa Nicolae &lt;br/&gt;&lt;br/&gt;</sub-title>
     <category lang="ro">14</category>
   </programme>
-  <programme start="20160801062500 -0400" stop="20160801065500 -0400" channel="TVR 1">
+  <programme start="20160801062500 -0500" stop="20160801065500 -0500" channel="TVR 1">
     <title lang="ro">Teleshopping (?)</title>
     <sub-title lang="ro">(promo)</sub-title>
     <category lang="ro">13</category>
   </programme>
-  <programme start="20160801065500 -0400" stop="20160801070000 -0400" channel="TVR 1">
+  <programme start="20160801065500 -0500" stop="20160801070000 -0500" channel="TVR 1">
     <title lang="ro">Imnul României (?)</title>
     <sub-title lang="ro">(musical)</sub-title>
     <category lang="ro">14</category>
   </programme>
-  <programme start="20160801070000 -0400" stop="20160801075500 -0400" channel="TVR 1">
+  <programme start="20160801070000 -0500" stop="20160801075500 -0500" channel="TVR 1">
     <title lang="ro">Toate pânzele sus (?)</title>
     <sub-title lang="ro">(rom., 1976, avent. f, episodul 7) Premiu Special Gopo, pentru a marca 30 de ani de la premieră.</sub-title>
     <category lang="ro">2</category>
   </programme>
-  <programme start="20160801075500 -0400" stop="20160801080000 -0400" channel="TVR 1">
+  <programme start="20160801075500 -0500" stop="20160801080000 -0500" channel="TVR 1">
     <title lang="ro">Sporturi</title>
     <sub-title lang="ro">
     </sub-title>
     <category lang="ro">7</category>
   </programme>
-  <programme start="20160801080000 -0400" stop="20160801084500 -0400" channel="TVR 1">
+  <programme start="20160801080000 -0500" stop="20160801084500 -0500" channel="TVR 1">
     <title lang="ro">Telejurnal matinal (?)</title>
     <sub-title lang="ro">(2016, emis. info.)</sub-title>
     <category lang="ro">3</category>
   </programme>
-  <programme start="20160801084500 -0400" stop="20160801090000 -0400" channel="TVR 1">
+  <programme start="20160801084500 -0500" stop="20160801090000 -0500" channel="TVR 1">
     <title lang="ro">Filler Jocurile Olimpice Rio 2016</title>
     <sub-title lang="ro">
     </sub-title>
     <category lang="ro">1</category>
   </programme>
-  <programme start="20160801090000 -0400" stop="20160801093500 -0400" channel="TVR 1">
+  <programme start="20160801090000 -0500" stop="20160801093500 -0500" channel="TVR 1">
     <title lang="ro">Domnişoara Charlot (?)</title>
     <sub-title lang="ro">(sua, 1915, f. burl.,  a-n)</sub-title>
     <category lang="ro">2</category>
   </programme>
-  <programme start="20160801093500 -0400" stop="20160801105000 -0400" channel="TVR 1">
+  <programme start="20160801093500 -0500" stop="20160801105000 -0500" channel="TVR 1">
     <title lang="ro">Drumul spre glorie (?)</title>
     <sub-title lang="ro">(2016, emis. sport)</sub-title>
     <category lang="ro">6</category>
   </programme>
-  <programme start="20160801105000 -0400" stop="20160801110000 -0400" channel="TVR 1">
+  <programme start="20160801105000 -0500" stop="20160801110000 -0500" channel="TVR 1">
     <title lang="ro">Filler Jocurile Olimpice Rio 2016</title>
     <sub-title lang="ro">
     </sub-title>
     <category lang="ro">1</category>
   </programme>
-  <programme start="20160801110000 -0400" stop="20160801113000 -0400" channel="TVR 1">
+  <programme start="20160801110000 -0500" stop="20160801113000 -0500" channel="TVR 1">
     <title lang="ro">Necazuri de puştoaică (?)</title>
     <sub-title lang="ro">(sua-can., 2000, s. copii, episodul 5)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160801113000 -0400" stop="20160801120000 -0400" channel="TVR 1">
+  <programme start="20160801113000 -0500" stop="20160801120000 -0500" channel="TVR 1">
     <title lang="ro">Necazuri de puştoaică (?)</title>
     <sub-title lang="ro">(sua-can., 2000, s. copii, episodul 6)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160801120000 -0400" stop="20160801123000 -0400" channel="TVR 1">
+  <programme start="20160801120000 -0500" stop="20160801123000 -0500" channel="TVR 1">
     <title lang="ro">Teleshopping (?)</title>
     <sub-title lang="ro">(promo)</sub-title>
     <category lang="ro">13</category>
   </programme>
-  <programme start="20160801123000 -0400" stop="20160801130000 -0400" channel="TVR 1">
+  <programme start="20160801123000 -0500" stop="20160801130000 -0500" channel="TVR 1">
     <title lang="ro">Descălecaţi în Carpaţi - Colţ de Rai cu natură şi cai (?)</title>
     <sub-title lang="ro">(2016, s. doc., episodul 11)</sub-title>
     <category lang="ro">3</category>
   </programme>
-  <programme start="20160801130000 -0400" stop="20160801140000 -0400" channel="TVR 1">
+  <programme start="20160801130000 -0500" stop="20160801140000 -0500" channel="TVR 1">
     <title lang="ro">Germana...la 1 (?)</title>
     <sub-title lang="ro">(emis. info.) Deutsch... um eins&lt;br/&gt;</sub-title>
     <category lang="ro">6</category>
   </programme>
-  <programme start="20160801140000 -0400" stop="20160801150000 -0400" channel="TVR 1">
+  <programme start="20160801140000 -0500" stop="20160801150000 -0500" channel="TVR 1">
     <title lang="ro">Telejurnal (?)</title>
     <sub-title lang="ro">(emis. info.) Telejurnalul, legătura ta cu lumea!</sub-title>
     <category lang="ro">3</category>
   </programme>
-  <programme start="20160801150000 -0400" stop="20160801153000 -0400" channel="TVR 1">
+  <programme start="20160801150000 -0500" stop="20160801153000 -0500" channel="TVR 1">
     <title lang="ro">Teleshopping (?)</title>
     <sub-title lang="ro">(promo)</sub-title>
     <category lang="ro">13</category>
   </programme>
-  <programme start="20160801153000 -0400" stop="20160801165500 -0400" channel="TVR 1">
+  <programme start="20160801153000 -0500" stop="20160801165500 -0500" channel="TVR 1">
     <title lang="ro">Maghiara de pe unu (?)</title>
     <sub-title lang="ro">(emis. mag.) Informaţii presărate cu paprika</sub-title>
     <category lang="ro">6</category>
   </programme>
-  <programme start="20160801165500 -0400" stop="20160801175500 -0400" channel="TVR 1">
+  <programme start="20160801165500 -0500" stop="20160801175500 -0500" channel="TVR 1">
     <title lang="ro">Garantat 100% (?)</title>
     <sub-title lang="ro">(talk show)</sub-title>
     <category lang="ro">7</category>
   </programme>
-  <programme start="20160801175500 -0400" stop="20160801185500 -0400" channel="TVR 1">
+  <programme start="20160801175500 -0500" stop="20160801185500 -0500" channel="TVR 1">
     <title lang="ro">Gări de poveste (?)</title>
     <sub-title lang="ro">(2015, mag. life-style) Prezentatori: Marina Constantinescu şi Cătălin Ştefănescu</sub-title>
     <category lang="ro">13</category>
   </programme>
-  <programme start="20160801185500 -0400" stop="20160801194500 -0400" channel="TVR 1">
+  <programme start="20160801185500 -0500" stop="20160801194500 -0500" channel="TVR 1">
     <title lang="ro">Exclusiv în România (?)</title>
     <sub-title lang="ro">(2013, emis. info.)</sub-title>
     <category lang="ro">13</category>
   </programme>
-  <programme start="20160801194500 -0400" stop="20160801200000 -0400" channel="TVR 1">
+  <programme start="20160801194500 -0500" stop="20160801200000 -0500" channel="TVR 1">
     <title lang="ro">Sport (?)</title>
     <sub-title lang="ro">
     </sub-title>
     <category lang="ro">1</category>
   </programme>
-  <programme start="20160801200000 -0400" stop="20160801205000 -0400" channel="TVR 1">
+  <programme start="20160801200000 -0500" stop="20160801205000 -0500" channel="TVR 1">
     <title lang="ro">Telejurnal (?)</title>
     <sub-title lang="ro">(emis. info.) Telejurnalul, legătura ta cu lumea!</sub-title>
     <category lang="ro">3</category>
   </programme>
-  <programme start="20160801205000 -0400" stop="20160801210000 -0400" channel="TVR 1">
+  <programme start="20160801205000 -0500" stop="20160801210000 -0500" channel="TVR 1">
     <title lang="ro">Filler Jocurile Olimpice Rio 2016</title>
     <sub-title lang="ro">
     </sub-title>
     <category lang="ro">1</category>
   </programme>
-  <programme start="20160801210000 -0400" stop="20160801211000 -0400" channel="TVR 1">
+  <programme start="20160801210000 -0500" stop="20160801211000 -0500" channel="TVR 1">
     <title lang="ro">Meteo</title>
     <sub-title lang="ro">
     </sub-title>
     <category lang="ro">3</category>
   </programme>
-  <programme start="20160801211000 -0400" stop="20160801220500 -0400" channel="TVR 1">
+  <programme start="20160801211000 -0500" stop="20160801220500 -0500" channel="TVR 1">
     <title lang="ro">Olimpicii României</title>
     <sub-title lang="ro">
     </sub-title>
     <category lang="ro">6</category>
   </programme>
-  <programme start="20160801220500 -0400" stop="20160801221000 -0400" channel="TVR 1">
+  <programme start="20160801220500 -0500" stop="20160801221000 -0500" channel="TVR 1">
     <title lang="ro">Sporturi</title>
     <sub-title lang="ro">
     </sub-title>
     <category lang="ro">7</category>
   </programme>
-  <programme start="20160801221000 -0400" stop="20160801231000 -0400" channel="TVR 1">
+  <programme start="20160801221000 -0500" stop="20160801231000 -0500" channel="TVR 1">
     <title lang="ro">Adio, Tovarăşi! (?)</title>
     <sub-title lang="ro">(fra.-ger.-ung., 2011, s. doc.,  col., a-n, episodul 3)</sub-title>
     <category lang="ro">10</category>
   </programme>
-  <programme start="20160801231000 -0400" stop="20160802011000 -0400" channel="TVR 1">
+  <programme start="20160801231000 -0500" stop="20160802011000 -0500" channel="TVR 1">
     <title lang="ro">Pe urmele lui Cezanne (?)</title>
     <sub-title lang="ro">(it., 2009, com.)</sub-title>
     <category lang="ro">2</category>
   </programme>
-  <programme start="20160731040000 -0400" stop="20160731050000 -0400" channel="TVR 2">
+  <programme start="20160731040000 -0500" stop="20160731050000 -0500" channel="TVR 2">
     <title lang="ro">Memorialul durerii (?)</title>
     <sub-title lang="ro">(doc.)</sub-title>
     <category lang="ro">6</category>
   </programme>
-  <programme start="20160731050000 -0400" stop="20160731060000 -0400" channel="TVR 2">
+  <programme start="20160731050000 -0500" stop="20160731060000 -0500" channel="TVR 2">
     <title lang="ro">Popasuri folclorice (?)</title>
     <sub-title lang="ro">(s. muz)</sub-title>
     <category lang="ro">7</category>
   </programme>
-  <programme start="20160731060000 -0400" stop="20160731065500 -0400" channel="TVR 2">
+  <programme start="20160731060000 -0500" stop="20160731065500 -0500" channel="TVR 2">
     <title lang="ro">Documentar 360° - GEO (?)</title>
     <sub-title lang="ro">(ger., 1999, s. doc.)</sub-title>
     <category lang="ro">10</category>
   </programme>
-  <programme start="20160731065500 -0400" stop="20160731070000 -0400" channel="TVR 2">
+  <programme start="20160731065500 -0500" stop="20160731070000 -0500" channel="TVR 2">
     <title lang="ro">Imnul României (?)</title>
     <sub-title lang="ro">(musical)</sub-title>
     <category lang="ro">14</category>
   </programme>
-  <programme start="20160731070000 -0400" stop="20160731071500 -0400" channel="TVR 2">
+  <programme start="20160731070000 -0500" stop="20160731071500 -0500" channel="TVR 2">
     <title lang="ro">5 minute de istorie (?)</title>
     <sub-title lang="ro">(2013, emis. info.)</sub-title>
     <category lang="ro">8</category>
   </programme>
-  <programme start="20160731071500 -0400" stop="20160731080000 -0400" channel="TVR 2">
+  <programme start="20160731071500 -0500" stop="20160731080000 -0500" channel="TVR 2">
     <title lang="ro">Teleshopping (?)</title>
     <sub-title lang="ro">(promo)</sub-title>
     <category lang="ro">13</category>
   </programme>
-  <programme start="20160731080000 -0400" stop="20160731090000 -0400" channel="TVR 2">
+  <programme start="20160731080000 -0500" stop="20160731090000 -0500" channel="TVR 2">
     <title lang="ro">Popasuri folclorice (?)</title>
     <sub-title lang="ro">(s. muz)</sub-title>
     <category lang="ro">7</category>
   </programme>
-  <programme start="20160731090000 -0400" stop="20160731100000 -0400" channel="TVR 2">
+  <programme start="20160731090000 -0500" stop="20160731100000 -0500" channel="TVR 2">
     <title lang="ro">Ferma (?)</title>
     <sub-title lang="ro">(emis. mag.) Nu mai aveţi loc la oraş? Încercaţi la ţară!</sub-title>
     <category lang="ro">13</category>
   </programme>
-  <programme start="20160731100000 -0400" stop="20160731103000 -0400" channel="TVR 2">
+  <programme start="20160731100000 -0500" stop="20160731103000 -0500" channel="TVR 2">
     <title lang="ro">Pescar hoinar (?)</title>
     <sub-title lang="ro">(emis. con.)</sub-title>
     <category lang="ro">13</category>
   </programme>
-  <programme start="20160731103000 -0400" stop="20160731105500 -0400" channel="TVR 2">
+  <programme start="20160731103000 -0500" stop="20160731105500 -0500" channel="TVR 2">
     <title lang="ro">Călători în lumi paralele (?)</title>
     <sub-title lang="ro">(can., 2002, f. avent.fam., episodul 36)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160731105500 -0400" stop="20160731112000 -0400" channel="TVR 2">
+  <programme start="20160731105500 -0500" stop="20160731112000 -0500" channel="TVR 2">
     <title lang="ro">Călători în lumi paralele (?)</title>
     <sub-title lang="ro">(can., 2002, f. avent.fam., episodul 37)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160731112000 -0400" stop="20160731113000 -0400" channel="TVR 2">
+  <programme start="20160731112000 -0500" stop="20160731113000 -0500" channel="TVR 2">
     <title lang="ro">5 minute de istorie (?)</title>
     <sub-title lang="ro">(2013, emis. info.)</sub-title>
     <category lang="ro">8</category>
   </programme>
-  <programme start="20160731113000 -0400" stop="20160731120000 -0400" channel="TVR 2">
+  <programme start="20160731113000 -0500" stop="20160731120000 -0500" channel="TVR 2">
     <title lang="ro">Pasiuni şi cariere (?)</title>
     <sub-title lang="ro">(emis. info.)</sub-title>
     <category lang="ro">5</category>
   </programme>
-  <programme start="20160731120000 -0400" stop="20160731123000 -0400" channel="TVR 2">
+  <programme start="20160731120000 -0500" stop="20160731123000 -0500" channel="TVR 2">
     <title lang="ro">Cap compas (?)</title>
     <sub-title lang="ro">(progr.turistic)</sub-title>
     <category lang="ro">13</category>
   </programme>
-  <programme start="20160731123000 -0400" stop="20160731130000 -0400" channel="TVR 2">
+  <programme start="20160731123000 -0500" stop="20160731130000 -0500" channel="TVR 2">
     <title lang="ro">A doua emigrare (?)</title>
     <sub-title lang="ro">(2015, emis. info.) Realizator: Monica Nicolescu&lt;br/&gt;Producător: Monica Nicolescu</sub-title>
     <category lang="ro">6</category>
   </programme>
-  <programme start="20160731130000 -0400" stop="20160731133000 -0400" channel="TVR 2">
+  <programme start="20160731130000 -0500" stop="20160731133000 -0500" channel="TVR 2">
     <title lang="ro">Natură şi aventură (?)</title>
     <sub-title lang="ro">
     </sub-title>
     <category lang="ro">13</category>
   </programme>
-  <programme start="20160731133000 -0400" stop="20160731141000 -0400" channel="TVR 2">
+  <programme start="20160731133000 -0500" stop="20160731141000 -0500" channel="TVR 2">
     <title lang="ro">Natură şi sănătate (?)</title>
     <sub-title lang="ro">(emis. mag.)</sub-title>
     <category lang="ro">13</category>
   </programme>
-  <programme start="20160731141000 -0400" stop="20160731154000 -0400" channel="TVR 2">
+  <programme start="20160731141000 -0500" stop="20160731154000 -0500" channel="TVR 2">
     <title lang="ro">La capătul liniei (?)</title>
     <sub-title lang="ro">(rom., 1982, f. dr.)</sub-title>
     <category lang="ro">2</category>
   </programme>
-  <programme start="20160731154000 -0400" stop="20160731155000 -0400" channel="TVR 2">
+  <programme start="20160731154000 -0500" stop="20160731155000 -0500" channel="TVR 2">
     <title lang="ro">Cartea cea de toate zilele (?)</title>
     <sub-title lang="ro">(emis. mag.)</sub-title>
     <category lang="ro">7</category>
   </programme>
-  <programme start="20160731155000 -0400" stop="20160731160000 -0400" channel="TVR 2">
+  <programme start="20160731155000 -0500" stop="20160731160000 -0500" channel="TVR 2">
     <title lang="ro">Jocurile Olimpice Rio 2016 Filler</title>
     <sub-title lang="ro">
     </sub-title>
     <category lang="ro">7</category>
   </programme>
-  <programme start="20160731160000 -0400" stop="20160731170000 -0400" channel="TVR 2">
+  <programme start="20160731160000 -0500" stop="20160731170000 -0500" channel="TVR 2">
     <title lang="ro">Gustul Moldovei (?)</title>
     <sub-title lang="ro">(emis. culinară)</sub-title>
     <category lang="ro">18</category>
   </programme>
-  <programme start="20160731170000 -0400" stop="20160731180000 -0400" channel="TVR 2">
+  <programme start="20160731170000 -0500" stop="20160731180000 -0500" channel="TVR 2">
     <title lang="ro">D'ale lu' Mitică (?)</title>
     <sub-title lang="ro">(rep.)</sub-title>
     <category lang="ro">5</category>
   </programme>
-  <programme start="20160731180000 -0400" stop="20160731183000 -0400" channel="TVR 2">
+  <programme start="20160731180000 -0500" stop="20160731183000 -0500" channel="TVR 2">
     <title lang="ro">Telejurnal (?)</title>
     <sub-title lang="ro">(emis. info.)</sub-title>
     <category lang="ro">3</category>
   </programme>
-  <programme start="20160731183000 -0400" stop="20160731193000 -0400" channel="TVR 2">
+  <programme start="20160731183000 -0500" stop="20160731193000 -0500" channel="TVR 2">
     <title lang="ro">Drumul lui Leşe (?)</title>
     <sub-title lang="ro">(program cult.)</sub-title>
     <category lang="ro">5</category>
   </programme>
-  <programme start="20160731193000 -0400" stop="20160731200000 -0400" channel="TVR 2">
+  <programme start="20160731193000 -0500" stop="20160731200000 -0500" channel="TVR 2">
     <title lang="ro">Europa 360° (?)</title>
     <sub-title lang="ro">(emis. info.)</sub-title>
     <category lang="ro">6</category>
   </programme>
-  <programme start="20160731200000 -0400" stop="20160731201000 -0400" channel="TVR 2">
+  <programme start="20160731200000 -0500" stop="20160731201000 -0500" channel="TVR 2">
     <title lang="ro">Sporturi Filler</title>
     <sub-title lang="ro">
     </sub-title>
     <category lang="ro">1</category>
   </programme>
-  <programme start="20160731201000 -0400" stop="20160731214000 -0400" channel="TVR 2">
+  <programme start="20160731201000 -0500" stop="20160731214000 -0500" channel="TVR 2">
     <title lang="ro">Cercul magic (?)</title>
     <sub-title lang="ro">(rom., 1975)</sub-title>
     <category lang="ro">2</category>
   </programme>
-  <programme start="20160731214000 -0400" stop="20160731215000 -0400" channel="TVR 2">
+  <programme start="20160731214000 -0500" stop="20160731215000 -0500" channel="TVR 2">
     <title lang="ro">Jocurile Olimpice Rio 2016 Filler</title>
     <sub-title lang="ro">
     </sub-title>
     <category lang="ro">7</category>
   </programme>
-  <programme start="20160731215000 -0400" stop="20160731221000 -0400" channel="TVR 2">
+  <programme start="20160731215000 -0500" stop="20160731221000 -0500" channel="TVR 2">
     <title lang="ro">Cartea cea de toate zilele (?)</title>
     <sub-title lang="ro">(emis. mag.)</sub-title>
     <category lang="ro">7</category>
   </programme>
-  <programme start="20160731221000 -0400" stop="20160801000000 -0400" channel="TVR 2">
+  <programme start="20160731221000 -0500" stop="20160801000000 -0500" channel="TVR 2">
     <title lang="ro">Noiembrie, ultimul bal (?)</title>
     <sub-title lang="ro">(rom., 1989, f. dr.)</sub-title>
     <category lang="ro">2</category>
   </programme>
-  <programme start="20160801000000 -0400" stop="20160801011000 -0400" channel="TVR 2">
+  <programme start="20160801000000 -0500" stop="20160801011000 -0500" channel="TVR 2">
     <title lang="ro">Interviurile Festivalului Internaţional George Enescu</title>
     <sub-title lang="ro">
     </sub-title>
     <category lang="ro">7</category>
   </programme>
-  <programme start="20160801011000 -0400" stop="20160801030000 -0400" channel="TVR 2">
+  <programme start="20160801011000 -0500" stop="20160801030000 -0500" channel="TVR 2">
     <title lang="ro">Teatru (?)</title>
     <sub-title lang="ro">(teatru TV)</sub-title>
     <category lang="ro">7</category>
   </programme>
-  <programme start="20160801030000 -0400" stop="20160801040000 -0400" channel="TVR 2">
+  <programme start="20160801030000 -0500" stop="20160801040000 -0500" channel="TVR 2">
     <title lang="ro">Ferma (?)</title>
     <sub-title lang="ro">(emis. mag.) Nu mai aveţi loc la oraş? Încercaţi la ţară!</sub-title>
     <category lang="ro">13</category>
   </programme>
-  <programme start="20160801040000 -0400" stop="20160801050000 -0400" channel="TVR 2">
+  <programme start="20160801040000 -0500" stop="20160801050000 -0500" channel="TVR 2">
     <title lang="ro">Gustul Moldovei (?)</title>
     <sub-title lang="ro">(emis. culinară, episodul 4)</sub-title>
     <category lang="ro">18</category>
   </programme>
-  <programme start="20160801050000 -0400" stop="20160801060000 -0400" channel="TVR 2">
+  <programme start="20160801050000 -0500" stop="20160801060000 -0500" channel="TVR 2">
     <title lang="ro">Drumul lui Leşe (?)</title>
     <sub-title lang="ro">(program cult.)</sub-title>
     <category lang="ro">5</category>
   </programme>
-  <programme start="20160801060000 -0400" stop="20160801065500 -0400" channel="TVR 2">
+  <programme start="20160801060000 -0500" stop="20160801065500 -0500" channel="TVR 2">
     <title lang="ro">Documentar 360° - GEO (?)</title>
     <sub-title lang="ro">(ger., 1999, s. doc.)</sub-title>
     <category lang="ro">10</category>
   </programme>
-  <programme start="20160801065500 -0400" stop="20160801070000 -0400" channel="TVR 2">
+  <programme start="20160801065500 -0500" stop="20160801070000 -0500" channel="TVR 2">
     <title lang="ro">Imnul României (?)</title>
     <sub-title lang="ro">(musical)</sub-title>
     <category lang="ro">14</category>
   </programme>
-  <programme start="20160801070000 -0400" stop="20160801081000 -0400" channel="TVR 2">
+  <programme start="20160801070000 -0500" stop="20160801081000 -0500" channel="TVR 2">
     <title lang="ro">Teleshopping (?)</title>
     <sub-title lang="ro">(promo)</sub-title>
     <category lang="ro">13</category>
   </programme>
-  <programme start="20160801081000 -0400" stop="20160801090000 -0400" channel="TVR 2">
+  <programme start="20160801081000 -0500" stop="20160801090000 -0500" channel="TVR 2">
     <title lang="ro">Mic dejun cu un campion (?)</title>
     <sub-title lang="ro">(emis. info.)</sub-title>
     <category lang="ro">6</category>
   </programme>
-  <programme start="20160801090000 -0400" stop="20160801100000 -0400" channel="TVR 2">
+  <programme start="20160801090000 -0500" stop="20160801100000 -0500" channel="TVR 2">
     <title lang="ro">Tată de vacanţă (?)</title>
     <sub-title lang="ro">(it., 2006, thr. mini-s. , sezonul 2, episodul 1)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160801100000 -0400" stop="20160801110000 -0400" channel="TVR 2">
+  <programme start="20160801100000 -0500" stop="20160801110000 -0500" channel="TVR 2">
     <title lang="ro">Documentar 360° - GEO (?)</title>
     <sub-title lang="ro">(ger., 1999, s. doc.)</sub-title>
     <category lang="ro">8</category>
   </programme>
-  <programme start="20160801110000 -0400" stop="20160801120000 -0400" channel="TVR 2">
+  <programme start="20160801110000 -0500" stop="20160801120000 -0500" channel="TVR 2">
     <title lang="ro">La fix (?)</title>
     <sub-title lang="ro">(2015, mag. life-style)</sub-title>
     <category lang="ro">13</category>
   </programme>
-  <programme start="20160801120000 -0400" stop="20160801122500 -0400" channel="TVR 2">
+  <programme start="20160801120000 -0500" stop="20160801122500 -0500" channel="TVR 2">
     <title lang="ro">Telejurnal (?)</title>
     <sub-title lang="ro">(emis. info.)</sub-title>
     <category lang="ro">15</category>
   </programme>
-  <programme start="20160801122500 -0400" stop="20160801123000 -0400" channel="TVR 2">
+  <programme start="20160801122500 -0500" stop="20160801123000 -0500" channel="TVR 2">
     <title lang="ro">Jocurile Olimpice Rio 2016 Filler</title>
     <sub-title lang="ro">
     </sub-title>
     <category lang="ro">7</category>
   </programme>
-  <programme start="20160801123000 -0400" stop="20160801132000 -0400" channel="TVR 2">
+  <programme start="20160801123000 -0500" stop="20160801132000 -0500" channel="TVR 2">
     <title lang="ro">Televiziunea, dragostea mea (?)</title>
     <sub-title lang="ro">(progr. art.)</sub-title>
     <category lang="ro">7</category>
   </programme>
-  <programme start="20160801132000 -0400" stop="20160801141500 -0400" channel="TVR 2">
+  <programme start="20160801132000 -0500" stop="20160801141500 -0500" channel="TVR 2">
     <title lang="ro">Tată de vacanţă (?)</title>
     <sub-title lang="ro">(it., 2006, thr. mini-s. , sezonul 2, episodul 2)</sub-title>
     <category lang="ro">12</category>
   </programme>
-  <programme start="20160801141500 -0400" stop="20160801143000 -0400" channel="TVR 2">
+  <programme start="20160801141500 -0500" stop="20160801143000 -0500" channel="TVR 2">
     <title lang="ro">Teleshopping (?)</title>
     <sub-title lang="ro">(promo)</sub-title>
     <category lang="ro">13</category>
   </programme>
-  <programme start="20160801143000 -0400" stop="20160801150000 -0400" channel="TVR 2">
+  <programme start="20160801143000 -0500" stop="20160801150000 -0500" channel="TVR 2">
     <title lang="ro">Cultura minorităţilor (?)</title>
     <sub-title lang="ro">(doc.)</sub-title>
     <category lang="ro">7</category>
   </programme>
-  <programme start="20160801150000 -0400" stop="20160801155000 -0400" channel="TVR 2">
+  <programme start="20160801150000 -0500" stop="20160801155000 -0500" channel="TVR 2">
     <title lang="ro">Telejurnal (?)</title>
     <sub-title lang="ro">(emis. info.)</sub-title>
     <category lang="ro">3</category>
   </programme>
-  <programme start="20160801155000 -0400" stop="20160801160000 -0400" channel="TVR 2">
+  <programme start="20160801155000 -0500" stop="20160801160000 -0500" channel="TVR 2">
     <title lang="ro">Jocurile Olimpice Rio 2016 Filler</title>
     <sub-title lang="ro">
     </sub-title>
     <category lang="ro">7</category>
   </programme>
-  <programme start="20160801160000 -0400" stop="20160801165500 -0400" channel="TVR 2">
+  <programme start="20160801160000 -0500" stop="20160801165500 -0500" channel="TVR 2">
     <title lang="ro">Ieri- Azi- Mâine (?)</title>
     <sub-title lang="ro">(talk show) Prezentator: Corina Dănilă</sub-title>
     <category lang="ro">19</category>
   </programme>
-  <programme start="20160801165500 -0400" stop="20160801170000 -0400" channel="TVR 2">
+  <programme start="20160801165500 -0500" stop="20160801170000 -0500" channel="TVR 2">
     <title lang="ro">Sporturi Filler</title>
     <sub-title lang="ro">
     </sub-title>
     <category lang="ro">1</category>
   </programme>
-  <programme start="20160801170000 -0400" stop="20160801180000 -0400" channel="TVR 2">
+  <programme start="20160801170000 -0500" stop="20160801180000 -0500" channel="TVR 2">
     <title lang="ro">Actual pe 2 (?)</title>
     <sub-title lang="ro">(2016, emis. info.)</sub-title>
     <category lang="ro">3</category>
   </programme>
-  <programme start="20160801180000 -0400" stop="20160801190000 -0400" channel="TVR 2">
+  <programme start="20160801180000 -0500" stop="20160801190000 -0500" channel="TVR 2">
     <title lang="ro">Ora de ştiri (?)</title>
     <sub-title lang="ro">(emis. info.)</sub-title>
     <category lang="ro">3</category>
   </programme>
-  <programme start="20160801190000 -0400" stop="20160801191000 -0400" channel="TVR 2">
+  <programme start="20160801190000 -0500" stop="20160801191000 -0500" channel="TVR 2">
     <title lang="ro">Jocurile Olimpice Rio 2016 Filler</title>
     <sub-title lang="ro">
     </sub-title>
     <category lang="ro">7</category>
   </programme>
-  <programme start="20160801191000 -0400" stop="20160801201000 -0400" channel="TVR 2">
+  <programme start="20160801191000 -0500" stop="20160801201000 -0500" channel="TVR 2">
     <title lang="ro">Dincolo  de moarte...IUBIREA!...</title>
     <sub-title lang="ro">
     </sub-title>
     <category lang="ro">2</category>
   </programme>
-  <programme start="20160801201000 -0400" stop="20160801220000 -0400" channel="TVR 2">
+  <programme start="20160801201000 -0500" stop="20160801220000 -0500" channel="TVR 2">
     <title lang="ro">Teatru (?)</title>
     <sub-title lang="ro">(teatru TV)</sub-title>
     <category lang="ro">7</category>
   </programme>
-  <programme start="20160801220000 -0400" stop="20160801223000 -0400" channel="TVR 2">
+  <programme start="20160801220000 -0500" stop="20160801223000 -0500" channel="TVR 2">
     <title lang="ro">Telejurnal (?)</title>
     <sub-title lang="ro">(emis. info.)</sub-title>
     <category lang="ro">15</category>
   </programme>
-  <programme start="20160801223000 -0400" stop="20160801224000 -0400" channel="TVR 2">
+  <programme start="20160801223000 -0500" stop="20160801224000 -0500" channel="TVR 2">
     <title lang="ro">Jocurile Olimpice Rio 2016 Filler</title>
     <sub-title lang="ro">
     </sub-title>
     <category lang="ro">7</category>
   </programme>
-  <programme start="20160801224000 -0400" stop="20160801231000 -0400" channel="TVR 2">
+  <programme start="20160801224000 -0500" stop="20160801231000 -0500" channel="TVR 2">
     <title lang="ro">Dincolo de viitor (?)</title>
     <sub-title lang="ro">(2016, emis. info.) Prezentator: Mihai Melinescu</sub-title>
     <category lang="ro">6</category>
   </programme>
-  <programme start="20160801231000 -0400" stop="20160801234000 -0400" channel="TVR 2">
+  <programme start="20160801231000 -0500" stop="20160801234000 -0500" channel="TVR 2">
     <title lang="ro">Locuri, oameni şi comori</title>
     <sub-title lang="ro">
     </sub-title>
     <category lang="ro">7</category>
   </programme>
-  <programme start="20160801234000 -0400" stop="20160802011000 -0400" channel="TVR 2">
+  <programme start="20160801234000 -0500" stop="20160802011000 -0500" channel="TVR 2">
     <title lang="ro">Replay (?)</title>
     <sub-title lang="ro">(emis. sport)</sub-title>
     <category lang="ro">1</category>
